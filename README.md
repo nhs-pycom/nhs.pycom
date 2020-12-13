@@ -31,15 +31,3 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nhsx/pycom/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<head>
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-XCCF9T4F20">
-</script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-XCCF9T4F20);
-</script></head>
