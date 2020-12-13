@@ -1,5 +1,7 @@
 theme: jekyll-theme-minimal
 title: nhs.pycom
 description: The NHS Python Community
+plugins:
+  - jekyll-seo-tag
 google_analytics: G-9G6P3YNVRG
 logo: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png
