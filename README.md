@@ -1,6 +1,6 @@
 ## Welcome to NHS.pycom
 
-The NHS Python Community (NHS.pycom) has been created to help everyone working health and social care develop their programming skills and apply these skills to drive the digital transformation of health care.
+The NHS Python Community (NHS.pycom) has been created to help everyone working in health and social care develop their programming skills and apply these skills to drive the digital transformation of health care.
 
 For further information please leave a message on our new [discussion forum](https://github.com/nhsx/nhs.pycom/discussions?discussions_q=category%3AGeneral) or [post an idea](https://github.com/nhsx/nhs.pycom/discussions?discussions_q=category%3AIdeas) for future developments you would like to see.
 
