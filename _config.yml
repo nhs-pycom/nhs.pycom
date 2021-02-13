@@ -1,6 +1,4 @@
-theme: jekyll-theme-minimal
-title: nhs.pycom
-description: The NHS Python Community
-plugins:
-  - jekyll-seo-tag
-logo: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png
+title: nhsx.io theme
+description: nhsx.io is a theme for GitHub Pages.
+show_downloads: true
+remote_theme: nhsx/nhsx-io-theme
