@@ -10,9 +10,7 @@ Please note that this project and discussion forum is governed by the [Citizen C
 
 Looking for support with R? Visit the [NHS-R Community](https://nhsrcommunity.com/) [[github](https://github.com/nhs-r-community)]
 
-## Python Time
-
 <div>
-  <h1>Your Code Embed</h1>
+  <h2>Python Time</h2>
   <script src="https://gist.github.com/craig-shenton/18ff9bcfa92acb7928536d80472a58d7.js"></script>
 </div>
