@@ -12,4 +12,7 @@ Looking for support with R? Visit the [NHS-R Community](https://nhsrcommunity.co
 
 ## Python Time
 
-{% gist 18ff9bcfa92acb7928536d80472a58d7 gist.md %}
+<div>
+  <h1>Your Code Embed</h1>
+  <script src="https://gist.github.com/craig-shenton/18ff9bcfa92acb7928536d80472a58d7.js"></script>
+</div>
