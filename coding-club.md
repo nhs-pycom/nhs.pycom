@@ -4,7 +4,8 @@
 
 1. Reading materials ([week one](https://www.w3schools.com/python/python_intro.asp))
 
-2. Make sure you are logged in with your google account (or make one)
+2. Make sure you are logged in with your google account
+   ![sign-in](/assets/img/sign-in.png)
 
 3. Optional - make a github account and login
 
