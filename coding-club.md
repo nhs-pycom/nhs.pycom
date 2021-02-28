@@ -22,8 +22,8 @@
 
 - Click first cell to flag warrning popup
 
-<img src="/assets/img/run-cell.png" alt="run-cell" width="300"/>
+<img src="/assets/img/run-cell.png" alt="run-cell" width="400"/>
 
-<img src="/assets/img/pop-up.png" alt="pop-up" width="300"/>
+<img src="/assets/img/pop-up.png" alt="pop-up" width="400"/>
 
 - Start programming!
