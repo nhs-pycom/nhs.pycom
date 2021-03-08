@@ -23,11 +23,9 @@ This session will cover the use and application of python tools that allow for m
 
 2. Then, click **Copy Drive** so that you have a copy of the lesson saved onto your Google Workspace ![save-to-gdrive](/assets/img/save-to-gdrive.png)
 
-3. Make sure to click **Connect** before the lesson starts 
+3. Make sure to click **Connect** before the lesson starts  ![connect](/assets/img/connect.png)
 
-![connect](/assets/img/connect.png)
-
-4. If you find a **Warning Popup** after you click **Run cel**l, click **Run Anyway**
+**Note:** If you find a **Warning Popup** after you click **Run cel**l, make sure to click **Run Anyway**.
 
 
 <img src="/assets/img/run-cell.png" alt="run-cell" width="400"/>
