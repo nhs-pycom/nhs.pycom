@@ -19,13 +19,13 @@ This session will cover the use and application of python tools that allow for m
 
 ##### How to connect to Google Colab
 
-1. To take part in our first lesson, make sure you are logged into your Google account 
+- To take part in our first lesson, make sure you are logged into your Google account 
 
 ![sign-in](/assets/img/sign-in.png)
 
-2. Then, click **Copy Drive** so that you have a copy of the lesson saved onto your Google Workspace ![save-to-gdrive](/assets/img/save-to-gdrive.png)
+- Then, click **Copy Drive** so that you have a copy of the lesson saved onto your Google Workspace ![save-to-gdrive](/assets/img/save-to-gdrive.png)
 
-3. Make sure to click **Connect** before the lesson starts  
+- Make sure to click **Connect** before the lesson starts  
 
 ![connect](/assets/img/connect.png)
 
