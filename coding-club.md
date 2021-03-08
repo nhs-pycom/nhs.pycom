@@ -29,7 +29,7 @@ This session will cover the use and application of python tools that allow for m
 
 ![connect](/assets/img/connect.png)
 
-**Note:** If you find a **Warning Popup** after you click **Run cel**l, make sure to click **Run Anyway**.
+**Note:** If you find a **Warning Popup** after you click **Run cell**, make sure to click **Run Anyway**.
 
 
 <img src="/assets/img/run-cell.png" alt="run-cell" width="400"/>
