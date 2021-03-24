@@ -1,6 +1,10 @@
 # Welcome to NHS.pycom: the Python community for healthcare
 
-The Python community for healthcare has been created to help everyone working in health and social care develop their programming skills and apply these skills to drive the digital transformation of health care. Python is an open source, state of the art programming language, used by developers, data scientists, and data engineers. Python’s widespread adoption is, in part, due to its accessible ‘human readable’ syntax, making it relatively easy to pick up and learn. Along with other open source analytics tools such as R, Python will be essential to drive the 21st century digital transformation of health care.
+The NHS Python community has been created to help everyone working in health and social care develop their programming skills and apply these skills to drive the digital transformation of health care. 
+
+Python is an open source, state of the art programming language, used by developers, data scientists, and data engineers. Python’s widespread adoption is, in part, due to its accessible ‘human readable’ syntax, making it relatively easy to pick up and learn. 
+
+Along with other open source analytics tools such as R, Python will be essential to drive the 21st century digital transformation of health care.
 
 ## Principles and aims of the Python community:
 
