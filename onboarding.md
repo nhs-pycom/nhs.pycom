@@ -6,11 +6,11 @@
 
 ## 3. Optional - make a github account and login
 
-## 4. BIG BUTTON - Link to where the lession materials are (link eg: https://colab.research.google.com/github/nhs-pycom/coding-club-test/blob/main/coding_club_test.ipynb)
+## 4. Link to where the lession materials are (https://github.com/nhs-pycom/coding-club-prophet)
 
-## 4.5 copy to G drive (opens in popup FIREFOX, SAFARI?, EDGE?)
+## 4.5 copy to G drive
 
-## 5. Click connect before the lesson starts - ss of ram and disk (explain connection to remote server)
+## 5. Click connect before the lesson starts - ss of ram and disk
 
 ## 6. Click first cell to flag warrning popup
 
