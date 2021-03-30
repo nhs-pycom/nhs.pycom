@@ -8,8 +8,6 @@ Along with other open source analytics tools such as R, Python will be essential
 
 ## [April 6th NHS.pycom mini-huddle session](https://www.events.england.nhs.uk/events/pycom-the-nhs-python-community)
 
-<a href="https://www.events.england.nhs.uk/events/pycom-the-nhs-python-community"><img src="/assets/img/poster.png" alt="poster" width="400"/></a>
-
 ## Principles and aims of the Python community:
 
 - Reduce barriers to entry by promoting the use and best practice of python tools, publishing to public GitHub repositories, and using online coding platforms such as Google Colab.
