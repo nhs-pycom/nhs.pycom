@@ -1,6 +1,6 @@
 # Welcome to NHS.pycom: the Python community for healthcare
 
-The NHS Python community is an open community of practice, driven by enthusiasts and advocates, that champions and the use of python programming language and open code in the NHS and healthcare sector.
+The NHS Python community is an open community of practice, driven by enthusiasts and advocates, championing the use of python programming language and open code in the NHS and healthcare sector.
 
 Python is an open source, state of the art programming language, used by developers, data scientists, and data engineers. Python’s widespread adoption is, in part, due to its accessible ‘human readable’ syntax, making it relatively easy to pick up and learn.
 
