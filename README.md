@@ -6,9 +6,11 @@ Python is an open source, state of the art programming language, used by develop
 
 Along with other open source analytics tools such as R, Python will be essential to drive the 21st century digital transformation of health care.
 
-## [April 6th NHS.pycom mini-huddle session](https://www.events.england.nhs.uk/events/pycom-the-nhs-python-community)
+## [Fill in the community survey to get involved](https://forms.gle/E3QjZ2zuVS4Wrcps6)
 
-[Fill in the community survey to get involved](https://forms.gle/E3QjZ2zuVS4Wrcps6)
+## Events
+
+[April 6th NHS.pycom mini-huddle session](https://www.events.england.nhs.uk/events/pycom-the-nhs-python-community)
 
 ## Principles and aims of the Python community:
 
