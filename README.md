@@ -10,7 +10,7 @@ Along with other open source analytics tools such as R, Python will be essential
 
 ## Events
 
-[April 6th NHS.pycom mini-huddle session](https://www.events.england.nhs.uk/events/pycom-the-nhs-python-community)
+[April 6th NHS.pycom mini-huddle session](https://future.nhs.uk/connect.ti/DataAnalyticsCovid19/view?objectId=27001328)
 
 ## Principles and aims of the Python community:
 
