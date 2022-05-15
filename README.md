@@ -6,12 +6,6 @@ Python is an open source, state of the art programming language, used by develop
 
 Along with other open source analytics tools such as R, Python will be essential to drive the 21st century digital transformation of health care.
 
-## [Fill in the community survey to get involved](https://forms.gle/E3QjZ2zuVS4Wrcps6)
-
-## Events
-
-[April 6th NHS.pycom mini-huddle session](https://future.nhs.uk/connect.ti/DataAnalyticsCovid19/view?objectId=27001328)
-
 ## Principles and aims of the Python community:
 
 - Reduce barriers to entry by promoting the use and best practice of python tools, publishing to public GitHub repositories, and using online coding platforms such as Google Colab.
@@ -20,8 +14,6 @@ Along with other open source analytics tools such as R, Python will be essential
 - Make coding accessible to all members of the healthcare community regardless of background or current level of ability.
 
 To find out more join the online community ‘[AnalystX](https://future.nhs.uk/connect.ti/DataAnalyticsCovid19/grouphome)’ on the FutureNHS collaboration platform or leave a message on our new [discussion forum](https://github.com/nhs-pycom/nhs.pycom/discussions).
-
-Contact us at pycom@nhsx.nhs.uk
 
 Please note that this project and discussion forum is governed by the [Citizen Code of Conduct](https://github.com/nhsx/nhs.pycom/blob/main/CODE_OF_CONDUCT.md).
 
