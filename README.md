@@ -63,7 +63,9 @@
 
 ## About The Project
 
-Website for the NHS Python Community. Built using Jekyll, Liquid theme templates, and the NHS Digital Service Manuel (NHS.UK) templates.
+Website for the NHS Python Community.
+
+This Jekyll theme was originally crafted by [John Otander](http://johnotander.com) as [Pixyll](https://github.com/johno/pixyll), then modified by [Sai Kiran Sripada](https://www.saikiransripada.com/), and then the NHS theme added by [Craig Robert Shenton](https://github.com/craig-shenton). It's free, and open source ([MIT](http://opensource.org/licenses/MIT)).
 
 _**Note:** No NHS data, public or private are shared in this repository._
 
@@ -81,9 +83,9 @@ _**Note:** No NHS data, public or private are shared in this repository._
 
 ### Built With
 
-- [Jekyll]()
-- [Liquid]()
-- [NHS Digital Service Manuel ]()
+- [Jekyll](https://github.com/jekyll)
+- [Liquid](https://shopify.github.io/liquid/)
+- [NHS Digital Service Manual](https://service-manual.nhs.uk/)
 
 <!-- GETTING STARTED -->
 
@@ -94,8 +96,8 @@ To get a local copy up and running follow these simple steps.
 If you're completely new to Jekyll, I recommend checking out the documentation at <http://jekyllrb.com> or there's a tutorial by [Smashing Magazine](http://www.smashingmagazine.com/2014/08/01/build-blog-jekyll-github-pages/).
 
 ```
-$ git clone git@github.com:saikiransripada/mixyll.git
-$ cd mixyll
+$ git clone git@github.com:nhs-pycom/nhs.pycom.git
+$ cd nhs.pycom
 $ gem install bundler # If you don't have bundler installed
 $ bundle install
 ```
@@ -116,12 +118,12 @@ for the Jekyll site. The defaults are:
 
 ```yml
 # Site settings
-title: Mixyll
+title: Repo Name
 email: your_email@example.com
-author: Sai Kiran Sripada
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+author: your name
+description: "Repo description"
 baseurl: ""
-url: "https://mixyll.saikiransripada.com/"
+url: "http://github-username.github.io"
 
 # Build settings
 markdown: kramdown
@@ -153,7 +155,7 @@ This will require you to modify the `_config.yml` like so:
 # Site settings
 title: Repo Name
 email: your_email@example.com
-author: Sai Kiran Sripada
+author: your name
 description: "Repo description"
 baseurl: "/repo-name"
 url: "http://github-username.github.io"
