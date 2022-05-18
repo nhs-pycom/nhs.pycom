@@ -1,0 +1,76 @@
+# Site settings
+title:       NHS Python Community Website
+email:       craig.shenton@nhs.net
+author:      Craig Robert Shenton
+description: "The NHS Python community is an open community of practice, driven by enthusiasts and advocates, championing the use of python programming language and open code in the NHS and healthcare sector."
+url:         "http://nhs-pycom.net/"
+date_format: "%b %-d, %Y"
+header_pages:
+ - about.md
+
+google_analytics:
+
+# Optional features
+animated:             true
+show_related_posts:   true
+show_post_footers:    false
+show_social_icons:    true
+
+# Preview image for social media aka og:image and twitter:image
+post_preview_image: true
+
+# Disqus post comments
+disqus_shortname:
+
+# Social icons
+github_username: nhs-pycom
+linkedin_username: 81285151
+
+# Post sharing icons
+show_sharing_icons: true
+# Change to 'true' to enable individual icons
+share_facebook: false
+share_twitter: true
+share_googleplus: false
+share_linkedin: true
+share_digg: false
+share_tumblr: false
+share_reddit: false
+share_stumbleupon: false
+share_hackernews: false
+
+text:
+  pagination:
+    newer: 'Newer'
+    older: 'Older'
+  share_buttons:
+    text:         'Share:'
+    twitter:      'Share on Twitter'
+    linkedin:     'Share on LinkedIn'
+  post:
+    updated:        'Updated'
+    minute_read:    'minute read'
+    related_posts:  'Related Posts'
+    post_footer:    'Lorem ipsum'
+  index:
+    coming_soon: 'Coming soon...'
+  og_locale: 'en_US'
+
+# Build settings
+markdown:     kramdown
+redcarpet:
+  extensions: ['smart', 'tables', 'with_toc_data']
+permalink:    :title
+paginate:     3
+sass:
+  style: compressed
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - Rakefile
+  - README.md
+  - vendor

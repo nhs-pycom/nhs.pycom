@@ -3,19 +3,16 @@
 {% include head.html %}
 <body class="site{% if site.animated %} animated fade-in-down{% endif %}">
 
-  <div class="site-wrap">
+  <div class="site-wrap center">
     <a class="nhsuk-skip-link" href="#maincontent">Skip to main content</a>
     {% include header.html %}
-    {% include nav_bar.html %}
-    <div class="nhsuk-width-container">
-      <main class="nhsuk-main-wrapper" id="maincontent">
-        <div class="nhsuk-grid-row">
-          <div class="nhsuk-grid-column-full">
+
+    <div class="post p2 p-responsive wrap" role="main">
+      <div class="measure">
         {{ content }}
-          </div>
-        </div>
-      </main>
+      </div>
     </div>
+  </div>
 
   {% include footer.html %}
 </body>
