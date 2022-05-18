@@ -21,7 +21,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/jekyll">
-    <img src="https://github.com/jekyll/brand/blob/master/jekyll-logo-black-red-transparent.png?raw=true" alt="Logo" width="80">
+    <img src="https://github.com/jekyll/brand/blob/master/jekyll-logo-black-red-transparent.png?raw=true" alt="Logo" width="280">
   </a>
 
   <h3 align="center">NHS Python Community Website</h3>
@@ -71,17 +71,17 @@ _**Note:** No NHS data, public or private are shared in this repository._
 
 | Name | Link | Description |
 | ---- | --- | ------------ |
-| _includes | [[Link]()] | Element templates |
-| _layouts | [[Link]()] | Page templates |
-| _posts | [[Link]()] | Blog post markdown files |
-| _sass | [[Link]()] | basscess files |
-| assets | [[Link]()] | Image assets |
-| board_notes | [[Link]()] | Notes from NHS.Pycom board meetings |
-| css | [[Link]()] | css style files |
+| _includes | [[Link](https://github.com/nhs-pycom/nhs.pycom/tree/main/_includes)] | Element templates |
+| _layouts | [[Link](https://github.com/nhs-pycom/nhs.pycom/tree/main/_layouts )] | Page templates |
+| _posts | [[Link](https://github.com/nhs-pycom/nhs.pycom/tree/main/_posts)] | Blog post markdown files |
+| _sass | [[Link](https://github.com/nhs-pycom/nhs.pycom/tree/main/_sass)] | basscess files |
+| assets | [[Link](https://github.com/nhs-pycom/nhs.pycom/tree/main/assets)] | Image assets |
+| board_notes | [[Link](https://github.com/nhs-pycom/nhs.pycom/tree/main/board_notes)] | Notes from NHS.Pycom board meetings |
+| css | [[Link](https://github.com/nhs-pycom/nhs.pycom/tree/main/css)] | css style files |
 
 ### Built With
 
-- [ Jekyll]()
+- [Jekyll]()
 - [Liquid]()
 - [NHS Digital Service Manuel ]()
 
@@ -295,13 +295,13 @@ Distributed under the MIT License. _See [LICENSE.md](https://github.com/nhs-pyco
 
 [contributors-shield]: https://img.shields.io/github/contributors/nhs-pycom/nhs.pycom.svg?color=blue&style=for-the-badge
 [contributors-url]: https://github.com/nhs-pycom/nhs.pycom/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/nhsx/nhs-pycom/nhs.pycom.svg?color=blue&style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/nhs-pycom/nhs.pycom.svg?color=blue&style=for-the-badge
 [forks-url]: https://github.com/nhs-pycom/nhs.pycom/network/members
-[stars-shield]: https://img.shields.io/github/stars/nhsx/nhs-pycom/nhs.pycom.svg?color=blue&style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/nhs-pycom/nhs.pycom.svg?color=blue&style=for-the-badge
 [stars-url]: https://github.com/nhs-pycom/nhs.pycom/stargazers
-[issues-shield]: https://img.shields.io/github/issues/nhsx/nhs-pycom/nhs.pycom.svg?color=blue&style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/nhs-pycom/nhs.pycom.svg?color=blue&style=for-the-badge
 [issues-url]: https://github.com/nhs-pycom/nhs.pycom/issues
-[license-shield]: https://img.shields.io/github/license/nhsx/nhs-pycom/nhs.pycom.svg?color=blue&style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/nhs-pycom/nhs.pycom.svg?color=blue&style=for-the-badge
 [license-url]: https://github.com/nhs-pycom/nhs.pycom/blob/main/LICENSE
 [code-lines]: https://img.shields.io/tokei/lines/github/nhs-pycom/nhs.pycom?color=blue&label=Code%20Lines&style=for-the-badge
 [code-lines-url]: https://github.com/nhs-pycom/nhs.pycom
