@@ -3,7 +3,7 @@ title:       NHS Python Community Website
 email:       craig.shenton@nhs.net
 author:      Craig Robert Shenton
 description: "The NHS Python community is an open community of practice, driven by enthusiasts and advocates, championing the use of python programming language and open code in the NHS and healthcare sector."
-url:         "http://nhs-pycom.net/"
+url:         "https://nhs-pycom.net/"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
