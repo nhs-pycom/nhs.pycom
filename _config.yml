@@ -3,8 +3,8 @@ title:       NHS Python Community Blog
 email:       craig.shenton@nhs.net
 author:      Craig Robert Shenton
 description: "tbd"
-baseurl:     "/blog"
-url:         "https://nhs-pycom.github.io"
+baseurl:     ""
+url:         "http://nhs-pycom.net/"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
