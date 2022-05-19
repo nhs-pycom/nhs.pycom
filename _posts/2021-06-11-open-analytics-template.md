@@ -5,9 +5,12 @@ date:       2021-06-11 12:00:00
 summary:    How we built an open analytics template for healthcare
 categories: open-source, NHS, python, GitHub
 ---
-<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
-
-> [![Open Analytics Template](assets/img/posts/open-analytics-min.png width="160px")](https://nhsx.github.io/open-analytics-template/)
+<a href="https://nhs-pycom.github.io/opensource-health-statistics/">
+    <img class="nhsuk-image__img" style='border:1px solid #000000' src="assets/img/posts/open-analytics-min.png" alt="Open-Source Health Statistics">
+    <figcaption class="nhsuk-image__caption">
+        Open-Source Health Statistics
+    </figcaption>
+</a>
 
 The open analytics template is used in the following projects:
 
