@@ -7,7 +7,7 @@ categories: open-source, NHS, python, GitHub
 ---
 <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 
-[![Open Analytics Template](assets/img/posts/open-analytics-min.png)](https://nhsx.github.io/open-analytics-template/)
+> [![Open Analytics Template](assets/img/posts/open-analytics-min.png width="160px")](https://nhsx.github.io/open-analytics-template/)
 
 The open analytics template is used in the following projects:
 

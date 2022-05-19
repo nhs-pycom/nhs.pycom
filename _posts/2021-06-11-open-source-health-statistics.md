@@ -7,7 +7,8 @@ categories: open-source, NHS, python, GitHub
 ---
 <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 
-[![Open Analytics Template](assets/img/posts/open-source-stats-min.png)](https://nhs-pycom.github.io/opensource-health-statistics/)
+|![Open Analytics Template](assets/img/posts/open-source-stats-min.png width="300px")](https://nhs-pycom.github.io/opensource-health-statistics/)|
+-
 
 The [Open-Source Health Statistics](https://nhs-pycom.github.io/opensource-health-statistics/) project was created by developers at [NHSX](https://www.nhsx.nhs.uk/) and [NHS Business Services Authority](https://www.nhsbsa.nhs.uk/).
 
