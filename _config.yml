@@ -61,11 +61,9 @@ markdown:     kramdown
 redcarpet:
   extensions: ['smart', 'tables', 'with_toc_data']
 permalink:    :title
-paginate:     5
 sass:
   style: compressed
 plugins:
-  - jekyll-paginate
   - jekyll-sitemap
 
 exclude:
