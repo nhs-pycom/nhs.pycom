@@ -5,25 +5,23 @@ date:       2021-06-11 12:00:00
 summary:    How we built an open analytics template for healthcare
 categories: open-source, NHS, python, GitHub
 ---
+
+The open analytics template is a very lightweight and reusable automation pipeline for open analytics projects.
+
 <a href="https://nhs-pycom.github.io/opensource-health-statistics/">
-    <img class="nhsuk-image__img" style='border:1px solid #000000' src="assets/img/posts/open-analytics-min.png" alt="Open-Source Health Statistics">
-    <figcaption class="nhsuk-image__caption">
-        Open-Source Health Statistics
-    </figcaption>
+    <img class="nhsuk-image__img" style='border:1px solid #212b32' src="assets/img/posts/open-analytics-min.png" alt="Open-Source Health Statistics" width="200px">
 </a>
 
-The open analytics template is used in the following projects:
-
-- The [Open-Source Health Statistics](https://nhs-pycom.github.io/opensource-health-statistics/) project was created by developers at <a href="https://www.nhsx.nhs.uk/">NHSX</a> and <a href="https://www.nhsbsa.nhs.uk/">NHS Business Services Authority</a> 
-
-The open analytics template is built using an end-to-end open source analytics pipeline consisting four key components:
+The tech stack is built using an end-to-end open-source tooling, consisting four key components:
 
 1. [GitHub API](https://docs.github.com/en/rest/reference/orgs) / [GitLab API](): We use the open API to pull data from open health repositoiries as `.json` files that are flattened into `pandas` dataframes for analysis.
 2. [Plotly.py](https://plotly.com/graphing-libraries/): An open source python graphing library is used to plot the repository data as tables and interactive charts.
 3. [GitHub Actions](https://github.com/features/actions): Used to orchestrate and automate the first two components on a schedule and commit those changes back to the project's repository.
 4. [GitHub.io Pages](https://pages.github.com/): We host and publish the results of our analysis to a static website that is re-built on every new commit.
 
-The four components come together to create a very light and reusable pipeline for open analytics.
+The template is used to build and deploy the following projects:
+
+- The [Open-Source Health Statistics](https://nhs-pycom.github.io/opensource-health-statistics/) project was created by developers at <a href="https://www.nhsx.nhs.uk/">NHSX</a> and <a href="https://www.nhsbsa.nhs.uk/">NHS Business Services Authority</a> 
 
 ## [Github](https://docs.github.com/en/rest/reference/orgs) / [GitLab API]()
 

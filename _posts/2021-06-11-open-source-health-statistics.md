@@ -6,14 +6,11 @@ summary:    How are collecting statistics on open-source NHS and healthcare rela
 categories: open-source, NHS, python, GitHub
 ---
 
-<a href="https://nhs-pycom.github.io/opensource-health-statistics/">
-    <img class="nhsuk-image__img" style='border:1px solid #000000' src="assets/img/posts/open-source-stats-min.png" alt="Open Analytics Template">
-    <figcaption class="nhsuk-image__caption">
-        Open Analytics Template
-    </figcaption>
-</a>
-
 The [Open-Source Health Statistics](https://nhs-pycom.github.io/opensource-health-statistics/) project was created by developers at [NHSX](https://www.nhsx.nhs.uk/) and [NHS Business Services Authority](https://www.nhsbsa.nhs.uk/).
+
+<a href="https://nhs-pycom.github.io/opensource-health-statistics/">
+    <img class="nhsuk-image__img" style='border:1px solid #212b32' src="assets/img/posts/open-source-stats-min.png" alt="Open Analytics Template" width="200px">
+</a>
 
 We have been collecting stats on open repositories of NHS and related healthcare organisations. 
 
