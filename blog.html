@@ -4,9 +4,7 @@ title: Blog
 ---
 
 <h2>Latest Posts</h2>
-<div>
-    <div>
-        {% for post in site.posts %}
+    {% for post in site.posts %}
         <div class="nhsuk-card nhsuk-card--clickable nhsuk-card--post">
             <!--<img class="nhsuk-card__img" src="/assets/img/posts/shall-not-pass.jpg" alt="">-->
             <div class="nhsuk-card__content">
@@ -21,6 +19,4 @@ title: Blog
                 </p>
             </div>
         </div>
-    </div>
     {% endfor %}
-</div>
