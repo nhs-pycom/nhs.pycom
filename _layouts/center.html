@@ -3,7 +3,9 @@
 {% include head.html %}
 
 <body class="site{% if site.animated %} animated fade-in-down{% endif %}">
-
+    <script>
+        document.body.className = ((document.body.className) ? document.body.className + ' js-enabled' : 'js-enabled');
+    </script>
     <div class="site-wrap center">
         <a class="nhsuk-skip-link" href="#maincontent">Skip to main content</a> {% include header.html %}
 
