@@ -21,7 +21,26 @@ tag: Blog
 </div>
 
 <article class="post-content">
-    {{ content }}
+<div class="nhsuk-grid-row">
+    <div class="nhsuk-grid-column-two-thirds">
+        {{ content }}
+    </div>
+
+    <div class="nhsuk-grid-column-one-third">
+        <div class="app-related-nav">
+            <nav class="app-related-nav__nav-section" aria-labelledby="parent-title">
+            <h2 class="app-related-nav__heading" id="parent-title">About</h2>
+            <ul class="app-related-nav__list">
+                {% if page.author %}{{ page.author }}
+                    <li class="app-related-nav__item"><a class="app-related-nav__link" href="https://github.com/{{ page.author-github }}">{{ page.author }}</a></li>
+                {% else %}
+                    <li class="app-related-nav__item app-related-nav__item--selected" aria-current="true">None</li>
+                {% endif %}
+            </ul>
+            </nav>
+        </div>
+    </div>
+</div>
 </article>
 
 <!--
