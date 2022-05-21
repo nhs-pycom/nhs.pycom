@@ -26,12 +26,12 @@ tag: Blog
         {{ content }}
     </div>
 
-    <div class="nhsuk-grid-column-one-quarters">
+    <div class="nhsuk-grid-column-one-quarter">
         <div class="app-related-nav">
             <nav class="app-related-nav__nav-section" aria-labelledby="parent-title">
-            <h2 class="app-related-nav__heading" id="parent-title">About</h2>
+            <h2 class="app-related-nav__heading" id="parent-title">Contributors</h2>
             <ul class="app-related-nav__list">
-                {% if page.author %}{{ page.author }}
+                {% if page.author %}
                     <li class="app-related-nav__item"><a class="app-related-nav__link" href="https://github.com/{{ page.author-github }}">{{ page.author }}</a></li>
                     <li class="app-related-nav__item app-related-nav__item--selected" aria-current="true">{{ page.author-title }}</li>
                     <li class="app-related-nav__item app-related-nav__item--selected" aria-current="true">{{ page.author-affiliation }}</li>
