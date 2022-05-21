@@ -3,7 +3,7 @@ layout:     post
 title:      Open-Source Health Statistics
 date:       2021-06-11 12:00:00
 summary:    How we are collecting statistics on open-source NHS and healthcare related code repositories
-categories: open-source GitHub
+categories: open-source GitHub analytics python
 author:     Craig Robert Shenton, PhD
 author-bio: Senior Data Engineer, NHS England Medical Directorate
 author-link: https://github.com/craig-shenton

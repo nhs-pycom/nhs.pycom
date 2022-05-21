@@ -3,7 +3,7 @@ layout:     post
 title:      NHS Python Community recognised in the Goldacre Review
 date:       2022-03-07 00:00:00
 summary:    Better, broader, safer. A practical vision for using health data for research and analysis.
-categories: Analysis
+categories: analytics python NHS-R
 author:     NHS Python Community
 author-github: nhs-pycom
 ---

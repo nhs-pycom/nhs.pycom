@@ -3,7 +3,7 @@ layout:     post
 title:      Just a minute! pre-commit
 date:       2022-05-15 15:31:19
 summary:    Pre-commit is a package which works like spell-correct on your code
-categories: git
+categories: git python
 author:     Lizi Johnstone
 author-bio: Data Scientist, Economics & Strategic Analysis, NHS England
 author-link: https://github.com/LiziJohnstone

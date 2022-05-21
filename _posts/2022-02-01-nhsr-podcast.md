@@ -3,7 +3,7 @@ layout:     post
 title:      NHS-R podcast - The NHS Python Community
 date:       2022-02-01 00:00:00
 summary:    Listen to the NHS Python Community team on the NHS-R podcast!
-categories: NHS-R
+categories: NHS-R python
 author:     NHS Python Community
 author-github: nhs-pycom
 ---
