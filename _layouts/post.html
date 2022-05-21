@@ -32,9 +32,10 @@ tag: Blog
             <h2 class="app-related-nav__heading" id="parent-title">Contributors</h2>
             <ul class="app-related-nav__list">
                 {% if page.author %}
-                    <li class="app-related-nav__item"><a class="app-related-nav__link" href="https://github.com/{{ page.author-github }}">{{ page.author }}</a></li>
-                    <li class="app-related-nav__item app-related-nav__item--selected" aria-current="true">{{ page.author-title }}</li>
-                    <li class="app-related-nav__item app-related-nav__item--selected" aria-current="true">{{ page.author-affiliation }}</li>
+                    <li class="app-related-nav__item"><h3><a class="app-related-nav__link" href="https://github.com/{{ page.author-github }}">{{ page.author }}</a></h3></li>
+                    {% if page.author-bio %}
+                    <li class="app-related-nav__item app-related-nav__item--selected" aria-current="true">{{ page.author-bio }}</li>
+                    {% else %}<span> </span>{% endif %}
                 {% else %}
                     <li class="app-related-nav__item"><a class="app-related-nav__link" href="https://github.com/nhs-pycom">NHS Python Community</a></li>
                 {% endif %}

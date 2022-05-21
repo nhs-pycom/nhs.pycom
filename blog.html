@@ -9,7 +9,8 @@ title: Blog
             <!--<img class="nhsuk-card__img" src="/assets/img/posts/shall-not-pass.jpg" alt="">-->
             <div class="nhsuk-card__content">
                 <p class="nhsuk-card__metadata nhsuk-body-s nhsuk-u-margin-bottom-0">
-                    {% if site.date_format %} {{ post.date | date: site.date_format }} {% else %} {{ post.date | date: "%b %-d, %Y" }} {% endif %}
+                    <span>by {% if site.date_format %} {{ post.date | date: site.date_format }} {% else %} {{ post.date | date: "%b %-d, %Y" }} {% endif %}  |</span>
+                    <span>{% if page.author %} {{ page.author }} {% else %} NHS Python Community {% endif %}</span>
                 </p>
                 <h3 class="nhsuk-card__heading">
                     <a href="{{ post.url | relative_url }}">{{ post.title }}</a>

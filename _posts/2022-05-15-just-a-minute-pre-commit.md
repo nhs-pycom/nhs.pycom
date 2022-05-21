@@ -5,8 +5,7 @@ date:       2022-05-15 15:31:19
 summary:    Pre-commit is a package which works like spell-correct on your code
 categories: Git
 author:     Lizi Johnstone
-author-title: Data Scientist
-author-affiliation: Economics & Strategic Analysis (ESA), NHS England
+author-bio: Data Scientist, Economics & Strategic Analysis, NHS England
 author-github: LiziJohnstone
 ---
 
