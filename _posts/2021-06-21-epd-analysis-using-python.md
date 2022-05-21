@@ -3,7 +3,7 @@ layout:      post
 title:       England Prescribing Data (EPD) analysis using python
 date:        2021-06-21 00:00:00
 summary:     Exploration of seasonal allergic rhinitis (hayfever) prescribing data using python.
-categories:  python, 
+categories:  open-source NHS python
 author:      Adenrele Komolafe
 author-bio:  Royal Surrey NHS Foundation Trust
 author-link: https://www.linkedin.com/in/akomolafe/
