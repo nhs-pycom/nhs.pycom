@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Developing Python Programming Skills Within the NHS
-date:       2022-03-07 00:00:00
+date:       2022-04-01 00:00:00
 summary:    Level 4 Data Analyst Apprenticeship Cambridge-Spark Case study
 categories: Cambridge-Spark Apprenticeship python
 author:     NHS Python Community
