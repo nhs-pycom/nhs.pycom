@@ -8,13 +8,15 @@ author:     NHS Python Community
 author-github: nhs-pycom
 ---
 
-The review led by Professor Ben Goldacre into how the efficient and safe use of health data for research and analysis can benefit patients and the healthcare sector has now been published.
+The review led by Professor Ben Goldacre into how the efficient and safe use of health data for research and analysis can benefit patients and the healthcare sector has now been published. 
 
-## The NHS Python Community recognised
+#### The NHS Python Community recognised
 
-> NHS analysts community has an array of grass roots organisations including the [NHS-R community](https://nhsrcommunity.com/), the [NHS-python community](https://nhs-pycom.net/), and the [Association of Professional Health Analysts](https://www.aphanalysts.org/). These organisations do an excellent job of championing the work of NHS analysts, and providing them with opportunities to exchange ideas.
+> NHS analysts community has an array of grass roots organisations including the NHS-R community, the NHS-python community, and the Association of Professional Health Analysts. These organisations do an excellent job of championing the work of NHS analysts, and providing them with opportunities to exchange ideas.
 
 ## About the Goldacre Review
+
+The review was commissioned by the Secretary of State for Health and Care, and will be responded to in the forthcoming Data Strategy for Health and Social Care which sets the direction for the use of data in a post-pandemic healthcare system.
 
 The NHS has some of the most powerful health data in the world. Almost every interaction with the health service leaves a digital trace: the diagnoses, treatments, tests and outcomes for almost every citizen in the country. 
 
@@ -31,3 +33,9 @@ The Goldacre review sets out a practical vision of how we can collectively achie
     <span class="nhsuk-action-link__text">Read the Goldacre Review</span>
   </a>
 </div>
+
+### Useful Links
+
+- [NHS-R community](https://nhsrcommunity.com/)
+- [NHS-python community](https://nhs-pycom.net/)
+- [Association of Professional Health Analysts](https://www.aphanalysts.org/)

@@ -77,16 +77,28 @@ tag: Blog
     })();
 </script>
 <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript> {% endif %} {% if site.show_related_posts %}
+
+<!-- Related Posts -->
+<nav class="nhsuk-contents-list" role="navigation" aria-label="Pages in this guide"></nav>
 <nav class="nhsuk-contents-list" role="navigation" aria-label="Pages in this guide">
     <h3>{{ site.text.post.related_posts | default: "Related Posts" }}</h3>
     <ol class="nhsuk-contents-list__list">
-        {% for post in site.related_posts %}
-        <li class="nhsuk-contents-list__item">
-            <a class="nhsuk-contents-list__link" href="{{ post.url | relative_url }}" class="post-link">
-            {{ post.title }}
-          </a> {% endfor %}
+        {% for post in site.related_posts limit:5 %}
+            {% assign match = false %}
+            {% for category in post.categories %}
+                {% if page.categories contains category %}
+                    {% assign match = true %}
+                    {% endif %}
+            {% endfor %}
+        {% if match %}
+            <li class="nhsuk-contents-list__item">
+                <a class="nhsuk-contents-list__link" href="{{ post.url | relative_url }}" class="post-link">
+                    {{ post.title }}
+                </a>
+            </li>
+        {% endif %}                       
+        {% endfor %}
     </ol>
-    {% endif %}
 </nav>
 
 <div class="nhsuk-back-link">
