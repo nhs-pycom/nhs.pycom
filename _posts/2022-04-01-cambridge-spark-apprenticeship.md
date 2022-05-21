@@ -8,9 +8,9 @@ author:     NHS Python Community
 author-github: nhs-pycom
 ---
 
-Read the data analyst apprentice case study from The Imperial College Healthcare NHS Trust and with Imperial College London
+Read the Cambridge Spark data analyst apprentice case study from Imperial College Healthcare NHS Trust and with Imperial College London
 
-[Case study: Developing Python Programming Skills Within the NHS](https://www.gov.uk/government/publications/better-broader-safer-using-health-data-for-research-and-analysis/better-broader-safer-using-health-data-for-research-and-analysis)
+[Case study: Developing Python Programming Skills Within the NHS](https://www.cambridgespark.com/case-studies/developing-python-programming-skills-within-the-nhs)
 
 ## Data Analyst Apprenticeship
 
