@@ -4,6 +4,10 @@ title:      Open-Source Health Statistics
 date:       2021-06-11 12:00:00
 summary:    How are collecting statistics on open-source NHS and healthcare related code repositories
 categories: open-source, NHS, python, GitHub
+author:     Craig Robert Shenton, PhD
+author-title: Senior Data Engineer
+author-affiliation: NHS England
+author-github: craig-shenton
 ---
 
 The [Open-Source Health Statistics](https://nhs-pycom.github.io/opensource-health-statistics/) project was created by developers at [NHSX](https://www.nhsx.nhs.uk/) and [NHS Business Services Authority](https://www.nhsbsa.nhs.uk/).

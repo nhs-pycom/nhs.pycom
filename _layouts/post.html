@@ -22,19 +22,21 @@ tag: Blog
 
 <article class="post-content">
 <div class="nhsuk-grid-row">
-    <div class="nhsuk-grid-column-two-thirds">
+    <div class="nhsuk-grid-column-three-quarters">
         {{ content }}
     </div>
 
-    <div class="nhsuk-grid-column-one-third">
+    <div class="nhsuk-grid-column-one-quarters">
         <div class="app-related-nav">
             <nav class="app-related-nav__nav-section" aria-labelledby="parent-title">
             <h2 class="app-related-nav__heading" id="parent-title">About</h2>
             <ul class="app-related-nav__list">
                 {% if page.author %}{{ page.author }}
                     <li class="app-related-nav__item"><a class="app-related-nav__link" href="https://github.com/{{ page.author-github }}">{{ page.author }}</a></li>
+                    <li class="app-related-nav__item app-related-nav__item--selected" aria-current="true">{{ page.author-title }}</li>
+                    <li class="app-related-nav__item app-related-nav__item--selected" aria-current="true">{{ page.author-affiliation }}</li>
                 {% else %}
-                    <li class="app-related-nav__item app-related-nav__item--selected" aria-current="true">None</li>
+                    <li class="app-related-nav__item"><a class="app-related-nav__link" href="https://github.com/nhs-pycom">NHS Python Community</a></li>
                 {% endif %}
             </ul>
             </nav>
