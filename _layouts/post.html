@@ -76,10 +76,10 @@ tag: Blog
         (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
     })();
 </script>
-<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript> {% endif %} {% if site.show_related_posts %}
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript> {% endif %}
 
 <!-- Related Posts -->
-<nav class="nhsuk-contents-list" role="navigation" aria-label="Pages in this guide"></nav>
+{% if site.show_related_posts %}
 <nav class="nhsuk-contents-list" role="navigation" aria-label="Pages in this guide">
     <h3>{{ site.text.post.related_posts | default: "Related Posts" }}</h3>
     <ol class="nhsuk-contents-list__list">
@@ -88,19 +88,21 @@ tag: Blog
             {% for category in post.categories %}
                 {% if page.categories contains category %}
                     {% assign match = true %}
-                    {% endif %}
+                {% endif %}
             {% endfor %}
-        {% if match %}
-            <li class="nhsuk-contents-list__item">
-                <a class="nhsuk-contents-list__link" href="{{ post.url | relative_url }}" class="post-link">
-                    {{ post.title }}
-                </a>
-            </li>
-        {% endif %}                       
+            {% if match %}
+                <li class="nhsuk-contents-list__item">
+                    <a class="nhsuk-contents-list__link" href="{{ post.url | relative_url }}" class="post-link">
+                        {{ post.title }}
+                    </a>
+                </li>
+            {% endif %}                       
         {% endfor %}
     </ol>
 </nav>
+{% endif %} 
 
+<!-- Back to latest posts -->
 <div class="nhsuk-back-link">
     <a class="nhsuk-back-link__link" href="{{ site.url }}blog">
         <svg class="nhsuk-icon nhsuk-icon__chevron-left" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true">
