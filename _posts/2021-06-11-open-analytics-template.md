@@ -6,7 +6,7 @@ summary:    How we built an open analytics template for healthcare
 categories: open-source, NHS, python, GitHub
 author:     Craig Robert Shenton, PhD
 author-bio: Senior Data Engineer, NHS England Medical Directorate
-author-github: craig-shenton
+author-link: https://github.com/craig-shenton
 ---
 
 The open analytics template is a very lightweight and reusable automation pipeline for open analytics projects.

@@ -29,10 +29,14 @@ tag: Blog
     <div class="nhsuk-grid-column-one-quarter">
         <div class="app-related-nav">
             <nav class="app-related-nav__nav-section" aria-labelledby="parent-title">
-            <h2 class="app-related-nav__heading" id="parent-title">Contributors</h2>
+            <h2 class="app-related-nav__heading" id="parent-title">Contributor</h2>
             <ul class="app-related-nav__list">
                 {% if page.author %}
-                    <li class="app-related-nav__item"><a class="app-related-nav__link" href="https://github.com/{{ page.author-github }}">{{ page.author }}</a></li>
+                    {% if page.author-link %}
+                        <li class="app-related-nav__item"><a class="app-related-nav__link" href="{{ page.author-link }}">{{ page.author }}</a></li>
+                    {% else %}
+                        <li class="app-related-nav__item">{{ page.author }}</li>
+                    {% endif %}
                     {% if page.author-bio %}
                     <li class="app-related-nav__item app-related-nav__item--selected" aria-current="true">{{ page.author-bio }}</li>
                     {% else %}<span> </span>{% endif %}

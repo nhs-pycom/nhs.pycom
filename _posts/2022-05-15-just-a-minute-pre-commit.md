@@ -6,7 +6,7 @@ summary:    Pre-commit is a package which works like spell-correct on your code
 categories: Git
 author:     Lizi Johnstone
 author-bio: Data Scientist, Economics & Strategic Analysis, NHS England
-author-github: LiziJohnstone
+author-link: https://github.com/LiziJohnstone
 ---
 
 If you haven't heard of [pre-commit](https://github.com/pre-commit/pre-commit) and are using [git](https://git-scm.com/), please read.
