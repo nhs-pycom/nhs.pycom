@@ -3,7 +3,7 @@ layout:     post
 title:      Open Analytics Template
 date:       2021-06-11 12:00:00
 summary:    How we built an open analytics template for healthcare
-categories: open-source GitHub
+categories: open-source GitHub analytics python
 author:     Craig Robert Shenton, PhD
 author-bio: Senior Data Engineer, NHS England Medical Directorate
 author-link: https://github.com/craig-shenton
@@ -17,7 +17,7 @@ The open analytics template is a very lightweight and reusable automation pipeli
 4. [GitHub.io Pages](https://pages.github.com/): We host and publish the results of our analysis to a static website that is re-built on every new commit.
 
 <a href="https://nhs-pycom.github.io/opensource-health-statistics/">
-    <img class="nhsuk-image__img" style='border:1px solid #212b32' src="assets/img/posts/open-analytics-min.png" alt="Open-Source Health Statistics" width="200px">
+    <img class="nhsuk-image__img" style='border:1px solid #212b32' src="assets/img/posts/open-analytics-min.png" alt="Open-Source Health Statistics">
 </a>
 
 The template is used to build and deploy the following projects:
