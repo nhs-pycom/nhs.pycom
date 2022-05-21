@@ -12,11 +12,9 @@ Stay awhile and listen! To our very own NHS Python Community team on the NHS-R p
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1217478010&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
-<div>
-    <a href="https://soundcloud.com/nhs-r-community" title="NHS-R Community">NHS-R Community</a> · <a href="https://soundcloud.com/nhs-r-community/pycom" title="NHS-R podcast episode 7- NHS Pycom">NHS-R podcast episode 7- NHS Python Community</a>
-</div>
+<a href="https://soundcloud.com/nhs-r-community" title="NHS-R Community">NHS-R Community</a>: <a href="https://soundcloud.com/nhs-r-community/pycom" title="NHS-R podcast episode 7- NHS Pycom">NHS-R podcast episode 7- NHS Python Community</a>
 
-### Staring:
+**Staring:**
 - [Mary Amanuel](github.com/maryamanuelnhsx)
 - [Dr Mark Bailey](github.com/Cotswoldsmaker)
 - [Sophie Williams, PhD](tgithub.com/sophie-w/)
