@@ -2,14 +2,16 @@
 layout:     post
 title:      Open-Source Health Statistics
 date:       2021-06-11 12:00:00
-summary:    How we are collecting statistics on open-source NHS and healthcare related code repositories
+summary:    We are collecting statistics on open-source NHS and healthcare related code repositories
 categories: open-source GitHub analytics python
 author:     Craig Robert Shenton, PhD
 author-bio: Senior Data Engineer, NHS England Medical Directorate
 author-link: https://github.com/craig-shenton
 ---
 
-We have been collecting stats on open repositories of NHS and related healthcare organisations. This has produced an interesting dataset that has lots of potential for further analysis and visualisations. 
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+
+We have been collecting stats on open repositories of NHS and related healthcare organisations. We use the open [GitHub API](https://docs.github.com/en/rest/reference/orgs) to pull data from open (public) repositoiries as `.json` files, then flatten the data into `pandas` dataframes for analysis. This has produced an interesting dataset that has lots of potential for further analysis and visualisations. 
 
 <a href="https://nhs-pycom.github.io/opensource-health-statistics/">
     <img class="nhsuk-image__img" style='border:1px solid #212b32' src="assets/img/posts/open-source-stats-min.png" alt="Open Analytics Template" width="200px">
