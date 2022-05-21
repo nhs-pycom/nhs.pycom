@@ -13,19 +13,13 @@ Whilst sneezing and coughing on a relatively cool evening, I decided to explore 
 
 > "The English prescribing dataset contains detailed information on prescriptions issued in England that have been dispensed in England, Wales, Scotland, Guernsey, Alderney, Jersey, and the Isle of Man.” — NHSBSA
 
-## Part 1
+### [NHS English Prescribing Data (EPD) Analysis Using Python (Part 1)](https://towardsdatascience.com/nhs-english-prescribing-data-analysis-using-python-9d86ec610880)
 
 In the first posts of a two-part series, I describe the methods used to exctract data from the CKAN API using `requests` and `pandas`
 
-### Towards Data Science
-[NHS English Prescribing Data (EPD) Analysis Using Python (Part 1)](https://towardsdatascience.com/nhs-english-prescribing-data-analysis-using-python-9d86ec610880)
-
-## Part 2
+### [NHS English Prescribing Data (EPD) Analysis Using Python (Part 2)](https://towardsdatascience.com/nhs-english-prescibing-data-epd-analysis-using-python-part-2-aa990e4e47dd)
 
 In the second posts of this two-part series, I aim to increase time efficiency of my data exctact, to explore the data, and to connect to a remote server in preparation for computationally expensive tasks.
-
-### Towards Data Science
-[NHS English Prescribing Data (EPD) Analysis Using Python (Part 2)](https://towardsdatascience.com/nhs-english-prescibing-data-epd-analysis-using-python-part-2-aa990e4e47dd)
 
 
 
