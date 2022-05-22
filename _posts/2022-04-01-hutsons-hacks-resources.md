@@ -8,7 +8,19 @@ author:     NHS Python Community
 author-github: nhs-pycom
 ---
 
-Check out the PyHacks tutorial repository to get up to speed quickly on learning Python. These tutorials are developed by [Gary Hutson](https://hutsons-hacks.info/). Head of Machine Learning at [CRISP](https://www.crispthinking.com/), a Tensorflow Certified Developer, and NHS-R Community Senior Fellow. Formarly Head of Advanced Analytics at Arden & Gem CSU. 
+Check out the PyHacks tutorial repository to get up to speed quickly on learning Python.
+
+<div class="nhsuk-action-link">
+  <a class="nhsuk-action-link__link" href="https://github.com/StatsGary/PyHacks-Tutorials">
+    <svg class="nhsuk-icon nhsuk-icon__arrow-right-circle" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true">
+      <path d="M0 0h24v24H0z" fill="none"></path>
+      <path d="M12 2a10 10 0 0 0-9.95 9h11.64L9.74 7.05a1 1 0 0 1 1.41-1.41l5.66 5.65a1 1 0 0 1 0 1.42l-5.66 5.65a1 1 0 0 1-1.41 0 1 1 0 0 1 0-1.41L13.69 13H2.05A10 10 0 1 0 12 2z"></path>
+    </svg>
+    <span class="nhsuk-action-link__text">PyHacks tutorials get you from beginner to winner!</span>
+  </a>
+</div>
+
+These tutorials are developed by [Gary Hutson](https://hutsons-hacks.info/). Head of Machine Learning at [CRISP](https://www.crispthinking.com/), a Tensorflow Certified Developer, and NHS-R Community Senior Fellow. Formarly Head of Advanced Analytics at Arden & Gem CSU.
 
 ### Python Basics, Programming and OOP
 
@@ -46,16 +58,6 @@ Check out the PyHacks tutorial repository to get up to speed quickly on learning
 - [Labelling and grid lines](https://github.com/StatsGary/PyHacks-Tutorials/blob/main/22_Matplotlib/22_3_Matplot_Labelling_and_grids.py)
 - [Creating subplots](https://github.com/StatsGary/PyHacks-Tutorials/blob/main/22_Matplotlib/22_4_Matplot_Subplotting.py)
 - [Scatter Chart creation](https://github.com/StatsGary/PyHacks-Tutorials/blob/main/22_Matplotlib/22_5_Matplot_Scatter.py)
-
-<div class="nhsuk-action-link">
-  <a class="nhsuk-action-link__link" href="https://github.com/StatsGary/PyHacks-Tutorials">
-    <svg class="nhsuk-icon nhsuk-icon__arrow-right-circle" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true">
-      <path d="M0 0h24v24H0z" fill="none"></path>
-      <path d="M12 2a10 10 0 0 0-9.95 9h11.64L9.74 7.05a1 1 0 0 1 1.41-1.41l5.66 5.65a1 1 0 0 1 0 1.42l-5.66 5.65a1 1 0 0 1-1.41 0 1 1 0 0 1 0-1.41L13.69 13H2.05A10 10 0 1 0 12 2z"></path>
-    </svg>
-    <span class="nhsuk-action-link__text">PyHacks tutorials get you from beginner to winner!</span>
-  </a>
-</div>
 
 The repository was created to enable people to learn from Gary's pain of learning Python himself 4 years ago. The code also acts as a support to the hutsons-hacks YouTube channel.
 
