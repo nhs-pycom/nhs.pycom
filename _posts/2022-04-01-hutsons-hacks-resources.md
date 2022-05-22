@@ -53,19 +53,24 @@ Check out the PyHacks tutorial repository to get up to speed quickly on learning
       <path d="M0 0h24v24H0z" fill="none"></path>
       <path d="M12 2a10 10 0 0 0-9.95 9h11.64L9.74 7.05a1 1 0 0 1 1.41-1.41l5.66 5.65a1 1 0 0 1 0 1.42l-5.66 5.65a1 1 0 0 1-1.41 0 1 1 0 0 1 0-1.41L13.69 13H2.05A10 10 0 1 0 12 2z"></path>
     </svg>
-    <span class="nhsuk-action-link__text">Read all the PyHacks tutorials to get you from beginner to winner!</span>
+    <span class="nhsuk-action-link__text">PyHacks tutorials get you from beginner to winner!</span>
   </a>
 </div>
 
-The repository was created to enable people to learn from Gary's pain of learning Python himself 4 years ago. The code also acts as a support to the hutsons-hacks YouTube channel: [Python (PyHacks) Tutorial playlist](https://www.youtube.com/playlist?list=PLSLQ7uyfNIIvBABMWgj61u7wNlQnbWqKw).
+The repository was created to enable people to learn from Gary's pain of learning Python himself 4 years ago. The code also acts as a support to the hutsons-hacks YouTube channel.
 
-#### Start here:
+### Python (PyHacks) Tutorial playlist:
+
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/q6teY2nwJKM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Cheack out more content on hutsons-hacks
-#### Python
+[Python (PyHacks) Tutorial playlist](https://www.youtube.com/playlist?list=PLSLQ7uyfNIIvBABMWgj61u7wNlQnbWqKw).
+
+### Cheack out more content on hutsons-hacks:
+
+**Python**
 - [Blog - Python blogs](https://hutsons-hacks.info/category/python-blogs)
 - [YouTube - Python playlist](https://www.youtube.com/playlist?list=PL37zlCA8GQdrHqgrDg2WcsSY6-P0ZBgnS)
-#### R
+
+**R**
 - [Blog - R blogs](https://hutsons-hacks.info/category/r-blogs)
 - [YouTube - R playlist](https://www.youtube.com/playlist?list=PL37zlCA8GQdo-mObS7U6ViJduy9CyC5aI)
