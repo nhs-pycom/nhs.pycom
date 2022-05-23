@@ -2,219 +2,50 @@
 layout:     post
 title:      Open-Source Health Statistics
 date:       2021-06-11 12:00:00
-summary:    How we are collecting statistics on open-source NHS and healthcare related code repositories
-categories: open-source, NHS, python, GitHub
+summary:    We are collecting statistics on open-source NHS and healthcare related code repositories
+categories: open-source GitHub analytics python
+author:     Craig Robert Shenton, PhD
+author-bio: Senior Data Engineer, NHS England Medical Directorate
+author-link: https://github.com/craig-shenton
 ---
+
 <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 
-The [Open-Source Health Statistics](https://nhs-pycom.github.io/opensource-health-statistics/) project was created by developers at <a href="https://www.nhsx.nhs.uk/">NHSX</a> and <a href="https://www.nhsbsa.nhs.uk/">NHS Business Services Authority</a> using an end-to-end open source analytics pipeline consisting four key components:
+We have been collecting stats on open repositories of NHS and related healthcare organisations. We use the open [GitHub API](https://docs.github.com/en/rest/reference/orgs) to pull data from open (public) repositoiries as `.json` files, then flatten the data into `pandas` dataframes for analysis. This has produced an interesting dataset that has lots of potential for further analysis and visualisations. 
 
-1. [GitHub API](https://docs.github.com/en/rest/reference/orgs) / [GitLab API](): We use the open API to pull data from open health repositoiries as `.json` files that are flattened into `pandas` dataframes for analysis.
-2. [Plotly.py](https://plotly.com/graphing-libraries/): An open source python graphing library is used to plot the repository data as tables and interactive charts.
-3. [GitHub Actions](https://github.com/features/actions): Used to orchestrate and automate the first two components on a schedule and commit those changes back to the project's repository.
-4. [GitHub.io Pages](https://pages.github.com/): We host and publish the results of our analysis to a static website that is re-built on every new commit.
+<a href="https://nhs-pycom.github.io/opensource-health-statistics/">
+    <img class="nhsuk-image__img" style='border:1px solid #212b32' src="assets/img/posts/open-source-stats-min.png" alt="Open Analytics Template" width="200px">
+</a>
 
-The four components come together to create a very light and reusable pipeline for open analytics.
+## Use of open-source software in the NHS
 
-## [Github](https://docs.github.com/en/rest/reference/orgs) / [GitLab API]()
+Open source is the practice of publishing the source code of a software project so that anyone can read, modify, re-use, and improve that software. For more on precise terms, see the Open Knowledge Foundation’s [Open Definition](http://opendefinition.org/od/2.1/en/). Programmers across the NHS frequently use existing open source packages and modules in their work, especially for routine data [analysis](https://pandas.pydata.org/) or [processing](https://hadoop.apache.org/), or for mobile development (as [part of the NHS App](https://www.nhs.uk/nhs-app/nhs-app-legal-and-cookies/nhs-app-open-source-licences/), for instance). 
 
-An API (Application Program Interface) allows us to access web tools or data in the cloud. The Github / GitLab API's are designed so that we can create and manage our repositories, branches, issues, pull requests programmatically. Typically you would need to sign into your own account to access these features, but some information is publicly available. In this project we are using the API to access publicly available information on open source repositories published by NHS and health related organisations.
+The ‘cambrian explosion’ visualisation captures the rise in open-source software in recent years. From the first open-source repo published by NHS England in 2014, to over 1,200 today. Python, R, and webdev tools (HTML, css, Ruby, PHP) are the most popular languages.
 
-We use the `urllib.request` python library to access the API as follows:
+{% include openhealth-stats-plotly.html %}
 
-{% highlight python %}
-url = (
-        "https://api.github.com/orgs/"  # github REST call
-        + org_id                        # organisation github name
-        + "/repos?page="                # list of open repos
-        + str(page)                     # page count
-        + "&per_page=100"               # no of results per page
-      )
-{% endhighlight %}
+## Why whould we open-source our code?
 
-Note: you can only make 60 calls per hour to the publich GitHub API, so we need to bear this in mind when looping through the API calls.
+As set out in the [NHS Digital Service Manual](https://service-manual.nhs.uk/standards-and-technology/service-standard-points/12-make-new-source-code-open), public services are built with public money–so unless there’s a good reason not to (security for example), all code produced by the NHS should be made publicly available. 
 
-The outputs of the API call returns a `.json` file from which we can flatten to a `panads` dataframe.
+> Open source means that the NHS can give our work back to the people who fund it, the public: allowing them to more easily join our staff, more quickly develop products and SMEs to support us, and better understand and trust the work we do on their behalf. 
+> [NHS Open-source Policy](https://github.com/nhsx/open-source-policy)
 
-{% highlight python %}
-flat_data = pd.json_normalize(data)
-{% endhighlight %}
+To this end, the [Department of Health & Social Care](https://www.gov.uk/government/publications/data-saves-lives-reshaping-health-and-social-care-with-data-draft/data-saves-lives-reshaping-health-and-social-care-with-data-draft) has made a commitment to make all new NHS code open source and published under [open licences](https://opensource.org/licenses) such as [MIT](https://opensource.org/licenses/MIT) and [OGLv3](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/), which define the legal terms for free access and reuse.
 
-We can then do some basic calculations to summerise these data. For example, count the number of repositores by each organisation.
+The Transformation Directorate of NHS England (NHSX) has aslo published [draft guidance on how to open source your code](https://github.com/nhsx/open-source-policy) for health and care organisations with guidance on where to put the code, how to license and what licences to use, how to maintain and case studies of teams who have done this. 
 
-{% highlight python %}
-aggregate = (
-    df.groupby(["org", "date"])
-    .sum()
-    .reset_index()
-)
-{% endhighlight %}
+**The NHS Open Source Policy will become officially available in Summer 2022**
 
-<p></p>
+## Contributions
+The [Open-Source Health Statistics](https://nhs-pycom.github.io/opensource-health-statistics/) project was created by developers at: 
 
-## [Plotly](https://plotly.com/python/)
+### [NHSX](https://www.nhsx.nhs.uk/)
+- [Craig Robert Shenton, PhD](https://github.com/craig-shenton)
+- [Mattia Ficarelli, PhD](https://github.com/mattia-ficarelli)
+- [Mary Amanuel](https://github.com/maryamanuelnhsx)
+- [Arouba Zubair](https://github.com/Arouba)
 
-Plotly is a [free and open source](https://plotly.com/python/is-plotly-free/) graphing library that that supports over 40 interactive, publication-quality graphs. It is available in Python, R, and JavaScript although the rendering process uses the Plotly.js JavaScript library under the hood.
-
-We use Plotly to save the graph to standalone HTML files.
-
-{% highlight python %}
-# example plotly chart syntax
-import plotly.graph_objects as go
-cols=['A', 'B', 'C','D', 'E', 'F']
-
-fig = go.Figure([go.Bar(x=cols, y=[6, 14, 33, 23, 9, 2])])
-fig.show()
-{% endhighlight %}
-
-{% highlight python %}
-# write out to file (.html)
-plotly_example = plotly.offline.plot(
-    fig, include_plotlyjs=False, output_type="div", config=config
-)
-with open("_includes/plotly_example.html", "w") as file:
-    file.write(plotly_example)
-{% endhighlight %}
-
-<p></p>
-
-### Example Ploty Graph
-
-{% include plotly_example.html %}
-
-<p></p>
-
-## [Github Actions](https://github.com/features/actions)
-
-GitHub Actions are a way to automate workflows using a simple [YAML syntax](https://learnxinyminutes.com/docs/yaml/). It's free on public repositories.
-
-You must store workflow files in the `.github/workflows` directory of your repository.
-
-### Requred
-
-{% highlight yml %}
-name:
-{% endhighlight %}
-
-The name of your workflow. GitHub displays the names of your workflows on your repository's actions page.
-
-{% highlight yml %}
-on: [push, pull_request]
-{% endhighlight %}
-
-Required. The name of the GitHub event that triggers the workflow. For a list of available events, see [Events that trigger workflows](https://docs.github.com/en/actions/reference/events-that-trigger-workflows).
-
-You can schedule a workflow to run at specific UTC times using POSIX cron syntax. Scheduled workflows run on the latest commit on the default or base branch.
-
-{% highlight yml %}
-on:
-  schedule:
-    #runs at 00:00 UTC everyday
-    - cron: "0 0 * * *"
-{% endhighlight %}
-
-This example triggers the workflow every day at 00:00 UTC:
-
-### Jobs
-
-A workflow run is made up of one or more jobs. Each job runs in a fresh instance of a virtual environment specified by `runs-on`.
-
-| Virtual environment  | YAML workflow label                |
-| -------------------- | ---------------------------------- |
-| Windows Server 2019  | `windows-latest` or `windows-2019` |
-| Windows Server 2016  | `windows-2016`                     |
-| Ubuntu 20.04         | `ubuntu-latest` or `ubuntu-20.04`  |
-| Ubuntu 18.04         | `ubuntu-18.04`                     |
-| macOS Big Sur 11     | `macos-11`                         |
-| macOS Catalina 10.15 | `macos-latest` or `macos-10.15`    |
-
-### Steps
-
-[Checkout](https://github.com/actions/checkout): This action checks-out your repository so the workflow can access it.
-
-{% highlight yml %}
-- name: checkout repo content
-uses: actions/checkout@v2
-{% endhighlight %}
-
-[Setup python](https://github.com/actions/setup-python): This action sets up a Python environment for use in actions by installing and adding to PATH an available version of Python in this case python 3.8
-
-{% highlight yml %}
-- name: setup python
-uses: actions/setup-python@v2
-with:
-    python-version: 3.8
-{% endhighlight %}
-
-[Install dependancies](https://github.com/py-actions/py-dependency-install): This GitHub Action installs Python package dependencies from a user-defined `requirements.txt` file path with `pip`
-
-{% highlight yml %}
-- name: Install Python dependencies
-uses: py-actions/py-dependency-install@v2
-with:
-    path: "requirements.txt"
-{% endhighlight %}
-
-In this case plotly, pandas, and pyYaml
-
-{% highlight bash %}
-# requirements.txt
-plotly==4.14.3
-pandas==1.1.3
-pyyaml==5.4.1
-{% endhighlight %}
-
-Runs command-line programs using the operating system's shell. run the run.py to get the latest data
-
-{% highlight yml %}
-- name: execute py script
-run: |
-    python run.py
-        dir
-{% endhighlight %}
-
-Commit changes to files
-
-{% highlight yml %}
-- name: Commit files
-id: commit
-run: |
-    git config --local user.email "action@github.com"
-    git config --local user.name "github-actions"
-    git add --all
-    if [-z "$(git status --porcelain)"]; then
-        echo "::set-output name=push::false"
-    else
-        git commit -m "Add changes" -a
-        echo "::set-output name=push::true"
-    fi
-shell: bash
-{% endhighlight %}
-
-Push changes to repo so github pages will re-build website
-
-{% highlight yml %}
-- name: Push changes
-if: steps.commit.outputs.push == 'true'
-uses: ad-m/github-push-action@master
-with:
-    github_token: {{{ secrets.GITHUB_TOKEN }}}
-{% endhighlight %}
-
-<p></p>
-
-## GitHub Pages
-
-[GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site) is a static site hosting service that takes HTML, CSS, and JavaScript files straight from a repository on GitHub, optionally runs the files through a build process, and publishes a website.
-
-You can use a static site generator to build your site for you or publish any static files that you push to your repository as follows:
-
-1.  On GitHub, navigate to your site's repository, example: [https://nhs-pycom.github.io/opensource-health-statistics/](https://nhs-pycom.github.io/opensource-health-statistics/).
-2.  In the root of the repository, create a new file called `index.md` that contains the content for your site.
-3.  Under your repository name, select `Settings`.
-4.  In the left sidebar, select `Pages`.
-5.  Select the branch from which to publish your page and select `save`.
-6.  Your page will be deployed within 60 seconds
-7.  To see your published site, under `GitHub Pages`, select your site's URL.
-
-For the [Open Health Statistics](https://nhs-pycom.github.io/opensource-health-statistics/) page we are using a static version of the [NHS Digital Service Manual](https://service-manual.nhs.uk/) that meets the [GOV.UK service standard](https://www.gov.uk/service-manual/service-standard).
+### [NHS Business Services Authority](https://www.nhsbsa.nhs.uk/).
+- [Adam Ivison](https://github.com/admivsn)
