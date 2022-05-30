@@ -1,12 +1,15 @@
-## Welcome to the NHSX Coding Club
+--- 
+layout: default
+title: Coding Club
+---
 
-### Onboarding Instructions
+## Onboarding Instructions
 
-##### Pre-reading
+#### Pre-reading
 
 If you’re new to python, you can get familiar with the basics in this [short introduction](https://www.w3schools.com/python/python_intro.asp).
 
-##### How to connect to Google Colab
+#### How to connect to Google Colab
 
 To take part in our first lesson, make sure you are logged into your Google account
 
