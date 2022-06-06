@@ -42,7 +42,7 @@ Git commit -m "helpful comment"
 
 ### Why I love and hate pre-commit:
 
-*   It finds all my errors before my colleagues do a code review, and means I have one less thing to think about
-*   I rarely get a pass first time and fixing my typing is a pain
+*   It finds all my errors before my colleagues do a code review, and means I have one less thing to think about.
+*   I rarely get a pass first time and fixing my typing is a pain.
 
 **Note:** To use, you need to "pip install" it onto your server, and then "pre-commit install" the first time you're in a new your git repository \[[link](https://pre-commit.com/#install)\].
