@@ -4,9 +4,8 @@ title:      NHS Python Community at the ConfedExpo
 date:       2022-06-12 12:00:00
 summary:    Promoting the use of open-source software in NHS
 categories: open-source GitHub python
-author:     Craig Robert Shenton, PhD
-author-bio: Senior Data Engineer, NHS England Medical Directorate
-author-link: https://github.com/craig-shenton
+author:     NHS Python Community
+author-github: nhs-pycom
 ---
 
 <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
