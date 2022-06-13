@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      NHS Python Community at the ConfedExpo
-date:       2022-06-14 12:00:00
+date:       2022-06-12 12:00:00
 summary:    Promoting the use of open-source software in NHS
 categories: open-source GitHub python
 author:     Craig Robert Shenton, PhD
@@ -11,7 +11,16 @@ author-link: https://github.com/craig-shenton
 
 <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 
-Come and meet us at the [NHS ConfedExpo](http://nhsconfedexpo.org) this week. We are presenting live from **2.30pm 15 June** & **12pm 16 June 2022** at the AnalystX stand (F5: Digital and Data Transformation), Liverpool ACC.
+<div class="nhsuk-grid-row">
+    <div class="nhsuk-grid-column-one-third">
+        <div class="nhsuk-card">
+            <img alt="analystx-community" class="nhsuk-card__img" src="assets/img/posts/scan-me.png.png" />
+        </div>
+    </div>
+    <div class="nhsuk-grid-column-two-thirds">
+        <p>Come and meet us at the <a href="http://nhsconfedexpo.org">NHS ConfedExpo</a> this week. We are presenting live from 2.30pm 15 June & 12pm 16 June 2022 at the AnalystX stand (F5: Digital and Data Transformation), Liverpool ACC.</p>
+    </div>
+</div>
 
 ## Promoting open-source in the NHS
 
