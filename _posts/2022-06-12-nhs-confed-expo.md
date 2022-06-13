@@ -14,7 +14,7 @@ author-link: https://github.com/craig-shenton
 <div class="nhsuk-grid-row">
     <div class="nhsuk-grid-column-one-third">
         <div class="nhsuk-card">
-            <img alt="analystx-community" class="nhsuk-card__img" src="assets/img/posts/scan-me.png.png" />
+            <img alt="analystx-community" class="nhsuk-card__img" src="assets/img/posts/scan-me.png" />
         </div>
     </div>
     <div class="nhsuk-grid-column-two-thirds">
