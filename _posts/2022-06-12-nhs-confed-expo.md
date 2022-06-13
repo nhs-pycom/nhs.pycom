@@ -14,7 +14,7 @@ author-link: https://github.com/craig-shenton
 <div class="nhsuk-grid-row">
     <div class="nhsuk-grid-column-one-third">
         <div class="nhsuk-card">
-            <img alt="analystx-community" class="nhsuk-card__img" src="assets/img/posts/scan-me.png" />
+            <img alt="analystx-community" class="nhsuk-card__img" src="assets/img/posts/confed-expo.png" />
         </div>
     </div>
     <div class="nhsuk-grid-column-two-thirds">
@@ -44,3 +44,8 @@ Open source means that the NHS can give our work back to the people who fund it,
 The Transformation Directorate of NHS England (NHSX) has published [draft guidance on how to open source your code](https://github.com/nhsx/open-source-policy) for health and care organisations with guidance on where to put the code, how to license and what licences to use, how to maintain and case studies of teams who have done this. 
 
 **The NHS open-source policy will become officially available in Summer 2022**
+
+## Open your phone camera to get our details
+<div class="nhsuk-card">
+    <img alt="link" class="nhsuk-card__img" src="assets/img/posts/scan-me.png" />
+</div>
