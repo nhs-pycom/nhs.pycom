@@ -44,7 +44,84 @@ The Transformation Directorate of NHS England (NHSX) has published [draft guidan
 
 **The NHS open-source policy will become officially available in Summer 2022**
 
+<h2>Get Involved in the Communtiy!</h2>
+
+    <div class="nhsuk-action-link">
+        <a class="nhsuk-action-link__link" href="https://forms.office.com/r/PM3hn17JMc">
+      <svg class="nhsuk-icon nhsuk-icon__arrow-right-circle" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true">
+        <path d="M0 0h24v24H0z" fill="none">
+        </path>
+        <path d="M12 2a10 10 0 0 0-9.95 9h11.64L9.74 7.05a1 1 0 0 1 1.41-1.41l5.66 5.65a1 1 0 0 1 0 1.42l-5.66 5.65a1 1 0 0 1-1.41 0 1 1 0 0 1 0-1.41L13.69 13H2.05A10 10 0 1 0 12 2z">
+        </path>
+      </svg>
+      <span class="nhsuk-action-link__text">Leave us your contact details.
+      </span>
+    </a>
+  </div>
+
 ## Open your phone camera to get our details
 <div class="nhsuk-card">
     <img alt="link" class="nhsuk-card__img" src="assets/img/posts/scan-me.png" />
 </div>
+
+<p>The NHS Python Community for Healthcare is open to anyone interested in championing the use of Python, programming, and open code in the NHS and healthcare sector.</p>
+<ul class="nhsuk-grid-row nhsuk-card-group">
+    <li class="nhsuk-grid-column-one-half nhsuk-card-group__item">
+        <div class="nhsuk-card nhsuk-card--clickable">
+            <img class="nhsuk-card__img" src="assets/img/links/min/slack-min.png" alt="NHS Python Community Slack">
+            <div class="nhsuk-card__content">
+                <h2 class="nhsuk-card__heading nhsuk-heading-m">
+                    <a class="nhsuk-card__link" href="https://join.slack.com/t/nhs-pycom/shared_invite/zt-z6h1hszo-3_w68FdalVM2EATVVdgCuw"> Slack channel</a>
+                </h2>
+                <p>Join us on Slack to chat to the community or ask us your questions.</p>
+                <!--<a class="nhsuk-button" href="https://join.slack.com/t/nhs-pycom/shared_invite/zt-z6h1hszo-3_w68FdalVM2EATVVdgCuw" draggable="false">
+              Join
+            </a>-->
+            </div>
+        </div>
+    </li>
+    <li class="nhsuk-grid-column-one-half nhsuk-card-group__item">
+        <div class="nhsuk-card nhsuk-card--clickable">
+            <img class="nhsuk-card__img" src="assets/img/links/min/linkedin-min.png" alt="NHS Python Community LinkedIn">
+            <div class="nhsuk-card__content">
+                <h2 class="nhsuk-card__heading nhsuk-heading-m">
+                    <a class="nhsuk-card__link" href="https://www.linkedin.com/company/nhs-python-community/posts/"> LinkedIn page</a>
+                </h2>
+                <p>Follow our LinkedIn page to be notified about all our future events.</p>
+                <!--<a class="nhsuk-button" href="https://www.linkedin.com/company/nhs-python-community/posts/" draggable="false">
+                Follow
+            </a>-->
+            </div>
+        </div>
+    </li>
+</ul>
+<ul class="nhsuk-grid-row nhsuk-card-group">
+    <li class="nhsuk-grid-column-one-half nhsuk-card-group__item">
+        <div class="nhsuk-card nhsuk-card--clickable">
+            <img class="nhsuk-card__img" src="assets/img/links/min/youtube-min.png" alt="NHS Python Community Youtube">
+            <div class="nhsuk-card__content">
+                <h2 class="nhsuk-card__heading nhsuk-heading-m">
+                    <a class="nhsuk-card__link" href="https://www.youtube.com/channel/UC_jacmsGNZQR5BPP7h0EtXw/videos"> YouTube channel</a>
+                </h2>
+                <p>Don't forget to like and subscribe to our YouTube channel.</p>
+                <!--<a class="nhsuk-button" href="https://www.youtube.com/channel/UC_jacmsGNZQR5BPP7h0EtXw/videos" draggable="false">
+                Subscribe
+            </a>-->
+            </div>
+        </div>
+    </li>
+    <li class="nhsuk-grid-column-one-half nhsuk-card-group__item">
+        <div class="nhsuk-card nhsuk-card--clickable">
+            <img class="nhsuk-card__img" src="assets/img/links/min/github-min.png" alt="NHS Python Community GitHub">
+            <div class="nhsuk-card__content">
+                <h2 class="nhsuk-card__heading nhsuk-heading-m">
+                    <a class="nhsuk-card__link" href="https://github.com/nhs-pycom"> GitHub repository</a>
+                </h2>
+                <p>Fork our repositories on GitHub and use our code.</p>
+                <!--<a class="nhsuk-button" href="https://github.com/nhs-pycom" draggable="false">
+                Fork
+            </a>-->
+            </div>
+        </div>
+    </li>
+</ul>
