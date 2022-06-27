@@ -2,7 +2,7 @@
 layout:     post
 title:      Developing Python Programming Skills Within the NHS
 date:       2022-04-01 00:00:00
-summary:    Level 4 Data Analyst Apprenticeship Cambridge-Spark Case study
+summary:    Data and AI Apprenticeships with Cambridge-Spark
 categories: Cambridge-Spark Apprenticeship python
 author:     NHS Python Community
 author-github: nhs-pycom
@@ -12,17 +12,9 @@ Read the Cambridge Spark data analyst apprentice case study from Imperial Colleg
 
 [Case study: Developing Python Programming Skills Within the NHS](https://www.cambridgespark.com/case-studies/developing-python-programming-skills-within-the-nhs)
 
-## Data Analyst Apprenticeship
+### Interested in joining the next Apprenticeship programme?
 
-Cambridge Spark's Level 4 Data Analyst Apprenticeship will equip learners with the technical skill set to empower them to extract, manipulate and visualise data, enabling organisations to answer complex questions and drive strategic value. 
-
-### What will you learn?:
-- Use Python programming and data analysis tools such as Pandas and Numpy to create insights that can drive commercial decision-making
-- Work with different data formats, types and databases such as SQL
-- Use data visualisation to summarise, present and make recommendations from the results of data analysis
-- Test and prototype code in a production environment, follow industry best practices and use collaborative workflows
-
-### Interested in joining the next programme?
+Cambridge Spark is delivering Data and AI apprenticeships that provide the NHS workforce with the skills needed to reshape health and social care with data. Working with a range of partners including the NHS Leadership Academy, Microsoft, AnalystX and HDR UK, every NHS employee has an opportunity to develop the data and digital skills they need to succeed. 
 
 <div class="nhsuk-action-link">
   <a class="nhsuk-action-link__link" href="https://www.cambridgespark.com/data-apprenticeships/level-4-data-analyst?hsLang=en">
@@ -30,8 +22,6 @@ Cambridge Spark's Level 4 Data Analyst Apprenticeship will equip learners with t
       <path d="M0 0h24v24H0z" fill="none"></path>
       <path d="M12 2a10 10 0 0 0-9.95 9h11.64L9.74 7.05a1 1 0 0 1 1.41-1.41l5.66 5.65a1 1 0 0 1 0 1.42l-5.66 5.65a1 1 0 0 1-1.41 0 1 1 0 0 1 0-1.41L13.69 13H2.05A10 10 0 1 0 12 2z"></path>
     </svg>
-    <span class="nhsuk-action-link__text">Apply for the Level 4 Data Analyst Apprenticeship</span>
+    <span class="nhsuk-action-link__text">Learn more about Data and AI Apprenticeships for the NHS</span>
   </a>
 </div>
-
-Enrolment deadline: **17th June 2022**
