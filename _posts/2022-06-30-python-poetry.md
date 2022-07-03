@@ -16,7 +16,7 @@ author-link: https://github.com/maryamanuelnhsx
         </div>
     </div>
     <div class="nhsuk-grid-column-two-thirds">
-        <h2>## Creativity in Python and Poetry<h2>
-        <p>Read as writer and poet [Tokoni Olobio](https://www.linkedin.com/in/tokoni-olobio-633a0875/) explores the connection between coding and poetry in his poem, [Write or die](https://olobiotokoni.medium.com/write-or-die-fc8a081508b1) [Medium].</p>
+        <h3>Creativity in Python and Poetry<h3>
+        <p>Read as writer and poet <a href="https://www.linkedin.com/in/tokoni-olobio-633a0875/">Tokoni Olobio</a> explores the connection between coding and poetry in his poem, <a href="https://olobiotokoni.medium.com/write-or-die-fc8a081508b1">Write or die</a> [Medium].</p>
     </div>
 </div>
