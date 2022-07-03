@@ -9,8 +9,9 @@ author-bio: Economics & Strategic Analysis, NHS England
 author-link: https://github.com/maryamanuelnhsx
 ---
 
-<h3>The creative link between Python and Poetry<h3>
-Read as writer and poet <a href="https://www.linkedin.com/in/tokoni-olobio-633a0875/">Tokoni Olobio</a> explores the connection between coding and poetry in his poem, <a href="https://olobiotokoni.medium.com/write-or-die-fc8a081508b1">Write or die</a> [Medium].
+#### The creative link between Python and Poetry
+
+Read as writer and poet [Tokoni Olobio](https://www.linkedin.com/in/tokoni-olobio-633a0875/) explores the connection between coding and poetry in his poem, [Write or die](https://olobiotokoni.medium.com/write-or-die-fc8a081508b1) [*Medium*].
 
 <div class="nhsuk-action-link">
     <a class="nhsuk-action-link__link" href="https://olobiotokoni.medium.com/write-or-die-fc8a081508b1">
