@@ -9,15 +9,15 @@ author-bio: Medical Directorate, NHS England
 author-link: https://github.com/craig-shenton
 ---
 
-The NHS Python Cimmunity team met up with Qian Huang - Chief Impact Officer & Co-Founder @ [Logan Todd & Co.](https://www.logantod.net/) at the Confed Expo in Liverpool ealier this year to discuss the use of 'process mining', a well proven analytical technique and has seen widespread adoption in industry [[1](https://www.logantod.net/resources/accelerate-nhs-recovery-with-process-mining)].
+The NHS Python Community team met up with Qian Huang - Chief Impact Officer & Co-Founder @ [Logan Todd & Co.](https://www.logantod.net/) at the Confed Expo in Liverpool earlier this year to discuss the use of 'process mining', a well proven analytical technique and has seen widespread adoption in industry [[1](https://www.logantod.net/resources/accelerate-nhs-recovery-with-process-mining)].
 
 ## What is Process Mining
 
-Process mining is a technique to analyse and monitor processes. A 'process' can be thought of as a collection of discrete activities or events. The end goal of process mining is to provide actionable operational insights and ultimatly help optimise the whole process [[2](https://towardsdatascience.com/introduction-to-process-mining-5f4ce985b7e5)]. This can involve identifying hidden nodes and bottlenecks in business processes. Checking the conformance of a process to a reference model or making predictions about the future state of the process [[2](https://towardsdatascience.com/introduction-to-process-mining-5f4ce985b7e5)].
+Process mining is a technique to analyse and monitor processes. A 'process' can be thought of as a collection of discrete activities or events. The end goal of process mining is to provide actionable operational insights and ultimately help optimise the whole process [[2](https://towardsdatascience.com/introduction-to-process-mining-5f4ce985b7e5)]. This can involve identifying hidden nodes and bottlenecks in business processes. Checking the conformance of a process to a reference model or making predictions about the future state of the process [[2](https://towardsdatascience.com/introduction-to-process-mining-5f4ce985b7e5)].
 
 ### Process Mining in a Healthcare Setting
 
-In a healthcare setting, process mining can be used to analyse patient pathways. For example, in elective care, patients start a pthway with a referral, moving them beteween different appointments and procedures, before completing their journey with a discharge [[1](https://www.logantod.net/resources/accelerate-nhs-recovery-with-process-mining)]. 
+In a healthcare setting, process mining can be used to analyse patient pathways. For example, in elective care, patients start a pathway with a referral, moving them between different appointments and procedures, before completing their journey with a discharge [[1](https://www.logantod.net/resources/accelerate-nhs-recovery-with-process-mining)]. 
 
 <figure class="nhsuk-image">
   <img class="nhsuk-image__img" src="../assets/img/posts/proc-mining.png" alt="Example patient flow visualisation">
