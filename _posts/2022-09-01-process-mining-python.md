@@ -42,16 +42,35 @@ Figure 1. show a visualisation of an example patient pathway developed using pro
 
 ## Process Mining in Python
 
+PM4Py styles it self as the state-of-the-art open-source process mining platform written in Python [[3](https://pm4py.fit.fraunhofer.de/)]. Developed by the [Fraunhofer Institute for Applied Information Technology (FIT)](http://fit.fraunhofer.de/). The advantage of PM4Py being a python library is that it allows for easy integration of process mining with other machine learning algorithms in scikit-learn.
+  - [Installation](https://pm4py.fit.fraunhofer.de/install)
+  - [Documentation](https://pm4py.fit.fraunhofer.de/docs)
+  - [Jupyter Notebook tutorial](https://gitlab.com/healthcare2/process-mining-tutorial/-/tree/master)
+
+#### Process Mining in Python | PyData Eindhoven 2019
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/i6NGHvZyHXY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### pm4py tutorials - What is Process Mining?
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/XLHtvt36g6U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Other Python PM Resources
+
+- [Awesome Process Mining with Python Awesome](https://github.com/TheWoops/awesome-processmining) [[4](https://github.com/TheWoops/awesome-processmining)]
+- Process Mining with Python tutorial: A Healthcare Application by 'c3d3'[[5](https://medium.com/@c3_62722/process-mining-with-python-tutorial-a-healthcare-application-part-1-ae02027a050)];
+  - [Part 1](https://medium.com/@c3_62722/process-mining-with-python-tutorial-a-healthcare-application-part-1-ae02027a050): Introduction, preprocessing and data exploration.
+  - [Part 2](https://medium.com/@c3_62722/process-mining-with-python-tutorial-a-healthcare-application-part-2-4cf57053421f): Process discovery using the PM4Py library.
+  - [Part 3](https://medium.com/@c3_62722/process-mining-with-python-tutorial-a-healthcare-application-part-3-cc9af986c122): Other process discovery algorithms and model representations.
+  - [Part 4](https://medium.com/@c3_62722/process-mining-with-python-tutorial-a-healthcare-application-part-4-912286ee51b): Control flow, bottlenecks, wait times, capacity, and case attributes. 
+
+
 ## References
 
-Qian Huang. 2021. "Using Process Mining to accelerate elective recovery in the NHS." [Online] Avaialbe at: [https://www.logantod.net/resources/accelerate-nhs-recovery-with-process-mining](https://www.logantod.net/resources/accelerate-nhs-recovery-with-process-mining). Logan Todd & Co.
+- Qian Huang. 2021. "Using Process Mining to accelerate elective recovery in the NHS." [Online] Available at: [https://www.logantod.net/resources/accelerate-nhs-recovery-with-process-mining](https://www.logantod.net/resources/accelerate-nhs-recovery-with-process-mining). Logan Todd & Co.
 
-Awesome Process Mining. 2019. [Online] Avaialbe at: [https://github.com/TheWoops/awesome-processmining](https://github.com/TheWoops/awesome-processmining)
+- Awesome Process Mining. 2019. [Online] Available at: [https://github.com/TheWoops/awesome-processmining](https://github.com/TheWoops/awesome-processmining)
 
-Fluxcon. 2020. "Process Mining in Practice." [Online] Avaialbe at: [https://fluxicon.com/book/read/#](https://fluxicon.com/book/read/#)
+- Eryk Lewinson. 2020. "Introduction to Process Mining" [Online] Available at: [https://towardsdatascience.com/introduction-to-process-mining-5f4ce985b7e5](https://towardsdatascience.com/introduction-to-process-mining-5f4ce985b7e5). 
 
-Eryk Lewinson. 2020. "Introduction to Process Mining" [Online] Avaialbe at: [https://towardsdatascience.com/introduction-to-process-mining-5f4ce985b7e5](https://towardsdatascience.com/introduction-to-process-mining-5f4ce985b7e5). 
+- c3d3. 2020. "Process Mining with Python tutorial: A healthcare application — Part 1." [Online] Available at: [https://medium.com/@c3_62722/process-mining-with-python-tutorial-a-healthcare-application-part-1-ae02027a050](https://medium.com/@c3_62722/process-mining-with-python-tutorial-a-healthcare-application-part-1-ae02027a050).
 
-c3d3. 2020. "Process Mining with Python tutorial: A healthcare application — Part 1." [Online] Avaialbe at: [https://medium.com/@c3_62722/process-mining-with-python-tutorial-a-healthcare-application-part-1-ae02027a050](https://medium.com/@c3_62722/process-mining-with-python-tutorial-a-healthcare-application-part-1-ae02027a050). Four part series [Part 2](https://medium.com/@c3_62722/process-mining-with-python-tutorial-a-healthcare-application-part-2-4cf57053421f), [Part 3](https://medium.com/@c3_62722/process-mining-with-python-tutorial-a-healthcare-application-part-3-cc9af986c122), [Part 4](https://medium.com/@c3_62722/process-mining-with-python-tutorial-a-healthcare-application-part-4-912286ee51b).
-
-[Fraunhofer Institute for Applied Information Technology (FIT)](http://fit.fraunhofer.de/). 2022. "PM4PY: State-of-the-art-process mining in Python". Application. [Online] Avaialbe at: [https://pm4py.fit.fraunhofer.de/](https://pm4py.fit.fraunhofer.de/).
+- [Fraunhofer Institute for Applied Information Technology (FIT)](http://fit.fraunhofer.de/). 2022. "PM4PY: State-of-the-art-process mining in Python". Application. [Online] Available at: [https://pm4py.fit.fraunhofer.de/](https://pm4py.fit.fraunhofer.de/).
