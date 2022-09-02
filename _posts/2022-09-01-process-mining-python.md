@@ -9,7 +9,7 @@ author-bio: Senior Data Engineer, NHS England Medical Directorate
 author-link: https://github.com/craig-shenton
 ---
 
-The NHS Python Community team met up with Qian Huang - Chief Impact Officer & Co-Founder @ [Logan Todd & Co.](https://www.logantod.net/) at the Confed Expo in Liverpool earlier this year to discuss the use of 'process mining', a well proven analytical technique and has seen widespread adoption in industry [[1](https://www.logantod.net/resources/accelerate-nhs-recovery-with-process-mining)].
+The NHS Python Community team met up with Qian Huang - Chief Impact Officer & Co-Founder @ [Logan Todd & Co.](https://www.logantod.net/) [[1](https://www.logantod.net/resources/accelerate-nhs-recovery-with-process-mining)] at the [Confed Expo in Liverpool](https://nhs-pycom.net/nhs-confed-expo) earlier this year to discuss the use of 'process mining' in the NHS.
 
 ## What is Process Mining
 
@@ -17,8 +17,9 @@ Process mining is a technique to analyse and monitor processes. A 'process' can 
 - Identifying hidden nodes and bottlenecks in business processes
 - Checking the conformance [[3]()] of a process to a reference model
 - Making predictions about the future state of the process [[2](https://towardsdatascience.com/introduction-to-process-mining-5f4ce985b7e5)].
+The method a well proven analytical technique and has seen widespread adoption in industry [[1](https://www.logantod.net/resources/accelerate-nhs-recovery-with-process-mining)].
 
-**[[3]()]** "*Conformance*" is a metric that measures a process that falls within an acceptable limit.
+**[[3]()]** "*Conformance*" is a metric that measures a whether process that falls within an acceptable limit.
 
 ### Process Mining in a Healthcare Setting
 
@@ -33,7 +34,7 @@ In a healthcare setting, process mining can be used to analyse patient pathways.
   </center>
 </figure>
 
-Figure 1. show a visualisation of an example patient pathway developed using process mining. Qian and her team have found that once everybody can see the reality of the patient journey it is much easier to collaborate, identify appropriate actions, and deliver real improvement [[1](https://www.logantod.net/resources/accelerate-nhs-recovery-with-process-mining)].
+Figure 1. shows a visualisation of an example patient pathway developed using process mining. Qian and her team have found that once everybody can see the reality of the patient journey it is much easier to collaborate, identify appropriate actions, and deliver real improvement [[1](https://www.logantod.net/resources/accelerate-nhs-recovery-with-process-mining)].
 
 <div class="nhsuk-action-link">
     <a class="nhsuk-action-link__link" href="https://olobiotokoni.medium.com/write-or-die-fc8a081508b1">
@@ -52,11 +53,23 @@ PM4Py styles it self as the state-of-the-art open-source process mining platform
   - [Documentation](https://pm4py.fit.fraunhofer.de/docs)
   - [Jupyter Notebook tutorial](https://gitlab.com/healthcare2/process-mining-tutorial/-/tree/master)
 
-#### Process Mining in Python | PyData Eindhoven 2019
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/i6NGHvZyHXY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<figure class="nhsuk-image" style="width: 100%;">
+  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/i6NGHvZyHXY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <center>
+    <figcaption class="nhsuk-image__caption">
+       Video 1. Process Mining in Python | PyData Eindhoven 2019
+    </figcaption>
+  </center>
+</figure>
 
-#### pm4py tutorials - What is Process Mining?
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/XLHtvt36g6U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<figure class="nhsuk-image" style="width: 100%;">
+  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/XLHtvt36g6U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <center>
+    <figcaption class="nhsuk-image__caption">
+       Video 2. pm4py tutorials - What is Process Mining
+    </figcaption>
+  </center>
+</figure>
 
 ### Other Python PM Resources
 
