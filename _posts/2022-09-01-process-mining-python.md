@@ -53,7 +53,7 @@ PM4Py styles it self as the state-of-the-art open-source process mining platform
   - [Documentation](https://pm4py.fit.fraunhofer.de/docs)
   - [Jupyter Notebook tutorial](https://gitlab.com/healthcare2/process-mining-tutorial/-/tree/master)
 
-<figure class="nhsuk-image" style="width: 100%;">
+<figure class="nhsuk-image">
   <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/i6NGHvZyHXY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   <center>
     <figcaption class="nhsuk-image__caption">
@@ -62,7 +62,7 @@ PM4Py styles it self as the state-of-the-art open-source process mining platform
   </center>
 </figure>
 
-<figure class="nhsuk-image" style="width: 100%;">
+<figure class="nhsuk-image">
   <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/XLHtvt36g6U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   <center>
     <figcaption class="nhsuk-image__caption">
