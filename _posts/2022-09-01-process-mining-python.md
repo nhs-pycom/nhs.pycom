@@ -15,17 +15,17 @@ The NHS Python Community team met up with Qian Huang - Chief Impact Officer & Co
 
 Process mining is a technique to analyse and monitor processes. A 'process' can be thought of as a collection of discrete activities or events. The end goal of process mining is to provide actionable operational insights and ultimately help optimise the whole process [[2](https://towardsdatascience.com/introduction-to-process-mining-5f4ce985b7e5)]. This can involve: 
 - Identifying hidden nodes and bottlenecks in business processes
-- Checking the conformance [[3]] of a process to a reference model
+- Checking the conformance [[3]()] of a process to a reference model
 - Making predictions about the future state of the process [[2](https://towardsdatascience.com/introduction-to-process-mining-5f4ce985b7e5)].
 
-**[[3]]** *conformance* is a metric that measures a process that falls within an acceptable limit.
+**[[3]()]** "*Conformance*" is a metric that measures a process that falls within an acceptable limit.
 
 ### Process Mining in a Healthcare Setting
 
 In a healthcare setting, process mining can be used to analyse patient pathways. For example, in elective care, patients start a pathway with a referral, moving them between different appointments and procedures, before completing their journey with a discharge [[1](https://www.logantod.net/resources/accelerate-nhs-recovery-with-process-mining)]. 
 
 <figure class="nhsuk-image">
-  <img class="nhsuk-image__img" src="../assets/img/posts/proc-mining.png" alt="Example patient flow visualisation">
+  <img class="nhsuk-image__img" src="../assets/img/posts/proc-mining.png" alt="Example patient flow visualisation"  width="100%">
   <center>
     <figcaption class="nhsuk-image__caption">
         Figure 1. Example patient flow visualisation
