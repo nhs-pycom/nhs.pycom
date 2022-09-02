@@ -24,8 +24,8 @@ Process mining is a technique to analyse and monitor processes. A 'process' can 
 
 In a healthcare setting, process mining can be used to analyse patient pathways. For example, in elective care, patients start a pathway with a referral, moving them between different appointments and procedures, before completing their journey with a discharge [[1](https://www.logantod.net/resources/accelerate-nhs-recovery-with-process-mining)]. 
 
-<figure class="nhsuk-image">
-  <img class="nhsuk-image__img" src="../assets/img/posts/proc-mining.png" alt="Example patient flow visualisation"  width="100%">
+<figure class="nhsuk-image" style="width: 100%;">
+  <img class="nhsuk-image__img" src="../assets/img/posts/proc-mining.png" alt="Example patient flow visualisation">
   <center>
     <figcaption class="nhsuk-image__caption">
         Figure 1. Example patient flow visualisation
@@ -41,7 +41,7 @@ Figure 1. show a visualisation of an example patient pathway developed using pro
             <path d="M0 0h24v24H0z" fill="none"></path>
             <path d="M12 2a10 10 0 0 0-9.95 9h11.64L9.74 7.05a1 1 0 0 1 1.41-1.41l5.66 5.65a1 1 0 0 1 0 1.42l-5.66 5.65a1 1 0 0 1-1.41 0 1 1 0 0 1 0-1.41L13.69 13H2.05A10 10 0 1 0 12 2z"></path>
         </svg>
-        <span class="nhsuk-action-link__text">Read: Using Process Mining to accelerate eletive recovery in the NHS (Logan Todd & Co.)</span>
+        <span class="nhsuk-action-link__text">Read: Using Process Mining to accelerate elective recovery in the NHS (Logan Todd & Co.)</span>
     </a>
 </div>
 
