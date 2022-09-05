@@ -9,7 +9,7 @@ author-bio: Senior Data Engineer, NHS England Medical Directorate
 author-link: https://github.com/craig-shenton
 ---
 
-The NHS Python Community team met up with Qian Huang - Chief Impact Officer & Co-Founder @ [Logan Todd & Co.](https://www.logantod.net/) [[1](https://www.logantod.net/resources/accelerate-nhs-recovery-with-process-mining)] at the [Confed Expo in Liverpool](https://nhs-pycom.net/nhs-confed-expo) earlier this year to discuss the use of 'process mining' in the NHS.
+The NHS Python Community team met up with Qian Huang - Chief Impact Officer & Co-Founder @ [Logan Tod & Co.](https://www.logantod.net/) [[1](https://www.logantod.net/resources/accelerate-nhs-recovery-with-process-mining)] at the [Confed Expo in Liverpool](https://nhs-pycom.net/nhs-confed-expo) earlier this year to discuss the use of 'process mining' in the NHS.
 
 ## What is Process Mining
 
