@@ -37,12 +37,12 @@ In a healthcare setting, process mining can be used to analyse patient pathways.
 Figure 1. shows a visualisation of an example patient pathway developed using process mining. Qian and her team have found that once everybody can see the reality of the patient journey it is much easier to collaborate, identify appropriate actions, and deliver real improvement [[1](https://www.logantod.net/resources/accelerate-nhs-recovery-with-process-mining)].
 
 <div class="nhsuk-action-link">
-    <a class="nhsuk-action-link__link" href="https://olobiotokoni.medium.com/write-or-die-fc8a081508b1">
+    <a class="nhsuk-action-link__link" href="https://nhs-analystx.github.io/process-mining/">
         <svg class="nhsuk-icon nhsuk-icon__arrow-right-circle" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true">
             <path d="M0 0h24v24H0z" fill="none"></path>
             <path d="M12 2a10 10 0 0 0-9.95 9h11.64L9.74 7.05a1 1 0 0 1 1.41-1.41l5.66 5.65a1 1 0 0 1 0 1.42l-5.66 5.65a1 1 0 0 1-1.41 0 1 1 0 0 1 0-1.41L13.69 13H2.05A10 10 0 1 0 12 2z"></path>
         </svg>
-        <span class="nhsuk-action-link__text">Read: Using Process Mining to accelerate elective recovery in the NHS (Logan Todd & Co.)</span>
+        <span class="nhsuk-action-link__text">Join the AnalystX Process Mining Community</span>
     </a>
 </div>
 
