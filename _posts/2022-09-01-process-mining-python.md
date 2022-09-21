@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Process Mining in Python
-date:       2022-06-30 12:00:00
+date:       2022-09-01 12:00:00
 summary:    Process Mining in Python
 categories: python, process mining, NHS
 author:     Craig Robert Shenton, PhD
