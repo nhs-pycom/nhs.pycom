@@ -42,7 +42,7 @@ author-github: nhs-pycom
         </div>
     </div>
     <div class="nhsuk-grid-column-two-thirds">
-        <p>Join us at Edgbaston Stadium, Birmingham on Wednesday 17th November for Day 2 of the NHS-R Community Conference!</p>
+        <p>Join us at Edgbaston Stadium, Birmingham on Wednesday 17th November for the python track of the NHS-R Community Conference</p>
     </div>
 </div>
 
