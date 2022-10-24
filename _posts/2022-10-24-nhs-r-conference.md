@@ -123,7 +123,7 @@ If you have questions please email [nhspycomcommunity@england.nhs.uk](mailto:nhs
                                                 13:00                                                                                            </td>
                                             <td class="p-4 border">
                                                 Steven Maude                                            </td>
-                                            <td class="p-4 border">Documenting the OpenSAFELY platform with Python and MkDocs”</td>
+                                            <td class="p-4 border">Documenting the OpenSAFELY platform with Python and MkDocs</td>
                                         </tr>
                                             
                                                                                 <tr>
