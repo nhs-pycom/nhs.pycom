@@ -208,7 +208,7 @@ If you have questions please email [nhspycomcommunity@england.nhs.uk](mailto:nhs
                                             
                                                                             </tbody></table>
 
-## Venue Information:
+## Venue Information
 
 - Lunch is provided – once your registration is confrimed, you will be asked to provide any dietary or access requirements.
 - Hotels – Please see the [Edgbaston Cricket Ground website](https://edgbaston.com/events/info/hotels/) for advice on local Hotels
