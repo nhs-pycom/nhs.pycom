@@ -75,20 +75,20 @@ If you have questions please email [nhspycomcommunity@england.nhs.uk](mailto:nhs
   <tbody>
     <tr>
       <td class="p-4 border">09:15</td>
-      <td class="p-4 border">Mary Amanuel, [Craig Shenton](https://www.linkedin.com/in/ACoAAAJjzAgB3VafSdpj5MALMZTjFBhNVIKLAPs?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3B8N1qq69KS6S5wosJPPHMXw%3D%3D)</td>
+      <td class="p-4 border"><a href="https://www.linkedin.com/in/mary-amanuel-b9b4621b4?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADHmqicBwF_728pSYQ0FY_1LhQGjRGNmUa0&lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3B8N1qq69KS6S5wosJPPHMXw%3D%3D"> Mary Amanuel</a>, <a href="https://www.linkedin.com/in/ACoAADksBGMB-Buqy5hJJRJw9C5GEnrtBf7MyAs?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3B8N1qq69KS6S5wosJPPHMXw%3D%3D"> Craig Shenton</a></td>
       <td class="p-4 border">Introduction</td>
     </tr>
 
     <tr>
       <td class="p-4 border">09:30</td>
-      <td class="p-4 border">Sarah Culkin</td>
+      <td class="p-4 border"><a href="https://www.linkedin.com/in/ACoAABMZca4B37QIdICBNr4kCawdXKhmgxE_r3w?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3B8N1qq69KS6S5wosJPPHMXw%3D%3D"> Sarah Culkin</a></td>
       <td class="p-4 border">Key Note Speech</td>
     </tr>
 
     <tr>
       <td class="p-4 border">10:00</td>
       <td class="p-4 border">
-        Pawel Orzechowski, Sarah Culkin, Thiago Viana, Andrew Harding
+        <a href="https://www.linkedin.com/in/ACoAAAVo5xQB2_MqkzcPdKU4oDD52HYnrImIi7I?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3B8N1qq69KS6S5wosJPPHMXw%3D%3D"> Pawel Orzechowski</a>, <a href="https://www.linkedin.com/in/ACoAABMZca4B37QIdICBNr4kCawdXKhmgxE_r3w?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3B8N1qq69KS6S5wosJPPHMXw%3D%3D"> Sarah Culkin</a>, Thiago Viana, <a href="https://www.linkedin.com/in/ACoAAAMyr-QBOzIGuT5oZZzWyaf_48j5_tIFbTs?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3B8N1qq69KS6S5wosJPPHMXw%3D%3D"> Andrew Harding</a>
       </td>
       <td class="p-4 border">
         Panel Dicussion - Benefits of upskilling analysts in python &amp; the
@@ -98,7 +98,7 @@ If you have questions please email [nhspycomcommunity@england.nhs.uk](mailto:nhs
 
     <tr>
       <td class="p-4 border">10:45</td>
-      <td class="p-4 border">Adam Carruthers</td>
+      <td class="p-4 border"><a href="https://www.linkedin.com/in/ACoAAC-VhagBk0YamMxnO_MIKh1h0c0jtyY73-4?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3B8N1qq69KS6S5wosJPPHMXw%3D%3D"> Adam Carruthers</a></td>
       <td class="p-4 border">
         Turbocharge your development with visual studio code
       </td>
@@ -106,7 +106,7 @@ If you have questions please email [nhspycomcommunity@england.nhs.uk](mailto:nhs
 
     <tr>
       <td class="p-4 border">11:15</td>
-      <td class="p-4 border">Mark Bailey</td>
+      <td class="p-4 border"><a href="https://www.linkedin.com/in/ACoAAAhzPgEBkPOWs-463asfyKeMC8qnonk43as?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3B8N1qq69KS6S5wosJPPHMXw%3D%3D"> Mark Bailey</a></td>
       <td class="p-4 border">
         Spiritum Duo - Clinical Pathways - A to B but faster
       </td>
@@ -114,7 +114,7 @@ If you have questions please email [nhspycomcommunity@england.nhs.uk](mailto:nhs
 
     <tr>
       <td class="p-4 border">11:45</td>
-      <td class="p-4 border">Steven Maude</td>
+      <td class="p-4 border"><a href=""> Steven Maude</a></td>
       <td class="p-4 border">
         Documenting the OpenSAFELY platform with Python and MkDocs
       </td>
@@ -122,7 +122,7 @@ If you have questions please email [nhspycomcommunity@england.nhs.uk](mailto:nhs
 
     <tr>
       <td class="p-4 border">12:15</td>
-      <td class="p-4 border">Charlotte James</td>
+      <td class="p-4 border"><a href="https://www.linkedin.com/in/ACoAABI9_EoByKx4_H1UMBtB3pkntByf62FrC7A?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3B8N1qq69KS6S5wosJPPHMXw%3D%3D"> Charlotte James</a></td>
       <td class="p-4 border">
         Forecasting Long-Term Demand in Emergency Departments
       </td>
@@ -130,7 +130,7 @@ If you have questions please email [nhspycomcommunity@england.nhs.uk](mailto:nhs
 
     <tr>
       <td class="p-4 border">12:45</td>
-      <td class="p-4 border">Paul Carroll</td>
+      <td class="p-4 border"><a href="https://www.linkedin.com/in/ACoAAACD7FIBNx4PF3asW0xQ6xdoFmS8nUAtk0A?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3B8N1qq69KS6S5wosJPPHMXw%3D%3D"> Paul Carroll</a></td>
       <td class="p-4 border">Travel Time to NHS Organisations</td>
     </tr>
 
@@ -142,13 +142,13 @@ If you have questions please email [nhspycomcommunity@england.nhs.uk](mailto:nhs
 
     <tr>
       <td class="p-4 border">14:00</td>
-      <td class="p-4 border">Dan Schofield</td>
+      <td class="p-4 border"><a href="https://www.linkedin.com/in/ACoAABThVdwBqKL7X9GE0kaZgSTtLkdUc9f6DCo?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3B8N1qq69KS6S5wosJPPHMXw%3D%3D"> Dan Schofield</a></td>
       <td class="p-4 border">Connecting Research to NHS Operations</td>
     </tr>
 
     <tr>
       <td class="p-4 border">14:30</td>
-      <td class="p-4 border">David Sgorbati</td>
+      <td class="p-4 border"><a href="https://www.linkedin.com/in/ACoAAB_48YYBi3L8E4h1qVK4FU9D4CZxTLpDLoY?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3B8N1qq69KS6S5wosJPPHMXw%3D%3D"> David Sgorbati</a></td>
       <td class="p-4 border">
         R and Python – Integrating Workflows in the Creation of Synthetic
         Datasets
@@ -157,7 +157,7 @@ If you have questions please email [nhspycomcommunity@england.nhs.uk](mailto:nhs
 
     <tr>
       <td class="p-4 border">15:00</td>
-      <td class="p-4 border">Dany Gammall</td>
+      <td class="p-4 border"><a href="https://www.linkedin.com/in/ACoAACEUS8wBsj3xj5R5d1fFQH3oNsZFnhkdA3I?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3B8N1qq69KS6S5wosJPPHMXw%3D%3D"> Dany Gammall</a></td>
       <td class="p-4 border">
         Evaluating FHIR clinical data quality with BigQuery and dbt
       </td>
@@ -170,14 +170,8 @@ If you have questions please email [nhspycomcommunity@england.nhs.uk](mailto:nhs
     </tr>
 
     <tr>
-      <td class="p-4 border">15:30</td>
-      <td class="p-4 border">Paul Carroll</td>
-      <td class="p-4 border">Travel Time to NHS Organisations</td>
-    </tr>
-
-    <tr>
       <td class="p-4 border">15:45</td>
-      <td class="p-4 border">Darshita Chaturvedi</td>
+      <td class="p-4 border"><a href="https://www.linkedin.com/in/ACoAABvB7D0BCU_mV_dPoh5hlwYdNG3AQoE9y2I?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3B8N1qq69KS6S5wosJPPHMXw%3D%3D"> Darshita Chaturvedi</a></td>
       <td class="p-4 border">
         Shinier alternative to R-Shiny: Creating Progressive Web Apps using
         PyScript and Atri
@@ -186,7 +180,7 @@ If you have questions please email [nhspycomcommunity@england.nhs.uk](mailto:nhs
 
     <tr>
       <td class="p-4 border">16:00</td>
-      <td class="p-4 border">Alistair Jones</td>
+      <td class="p-4 border"><a href="https://www.linkedin.com/in/ACoAADksBGMB-Buqy5hJJRJw9C5GEnrtBf7MyAs?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3B8N1qq69KS6S5wosJPPHMXw%3D%3D"> Alistair Jones</a></td>
       <td class="p-4 border">
         How we generate privacy-enhancing artificial healthcare data at NHS
         Digital
@@ -195,7 +189,7 @@ If you have questions please email [nhspycomcommunity@england.nhs.uk](mailto:nhs
 
     <tr>
       <td class="p-4 border">16:30</td>
-      <td class="p-4 border">(Zeki Gultekin](https://www.linkedin.com/in/ACoAADksBGMB-Buqy5hJJRJw9C5GEnrtBf7MyAs?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3B8N1qq69KS6S5wosJPPHMXw%3D%3D)</td>
+      <td class="p-4 border"><a href="https://www.linkedin.com/in/ACoAADksBGMB-Buqy5hJJRJw9C5GEnrtBf7MyAs?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3B8N1qq69KS6S5wosJPPHMXw%3D%3D"> Zeki Gultekin </a></td>
       <td class="p-4 border">
         Sensitive Data Detection by using Convolutional Neural Networks (CNN)
         and Name Entity Recognition(NER)
