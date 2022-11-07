@@ -64,149 +64,152 @@ If you have questions please email [nhspycomcommunity@england.nhs.uk](mailto:nhs
 ## NHS-R Conference - Python Track - Itinerary
 
 <table class="w-full">
-                                        <thead class="text-left text-theme-blue">
-                                            <tr><th class="w-1/5 p-4 border">Time</th>
-                                            <th class="w-2/5 p-4 border">Speaker</th>
-                                            <th class="w-2/5 p-4 border">Description</th>
-                                        </tr></thead>
+  <thead class="text-left text-theme-blue">
+    <tr>
+      <th class="w-1/5 p-4 border">Time</th>
+      <th class="w-2/5 p-4 border">Speaker</th>
+      <th class="w-2/5 p-4 border">Description</th>
+    </tr>
+  </thead>
 
-                                                                                <tbody><tr>
-                                            <td class="p-4 border">
-                                                09:15                                                                                            </td>
-                                            <td class="p-4 border">
-                                                Mary Amanuel, Craig Shenton                                            </td>
-                                            <td class="p-4 border">Introduction</td>
-                                        </tr>
-                                            
-                                                                                <tr>
-                                            <td class="p-4 border">
-                                                09:30                                                                                            </td>
-                                            <td class="p-4 border">
-                                                Sarah Culkin                                            </td>
-                                            <td class="p-4 border">Key Note Speech</td>
-                                        </tr>
-                                            
-                                                                                <tr>
-                                            <td class="p-4 border">
-                                                10:00                                                                                            </td>
-                                            <td class="p-4 border">
-                                                Pawel Orzechowski, Sarah Culkin, Thiago Viana, Andrew Harding                                            </td>
-                                            <td class="p-4 border">Panel Dicussion - Benefits of upskilling analysts in python &amp; the use of open-source code in the NHS and healthcare sector</td>
-                                        </tr>
-                                            
-                                                                                <tr>
-                                            <td class="p-4 border">
-                                                10:45                                                                                            </td>
-                                            <td class="p-4 border">
-                                                Adam Carruthers                                            </td>
-                                            <td class="p-4 border">Turbocharge your development with visual studio code</td>
-                                        </tr>
-                                            
-                                                                                <tr>
-                                            <td class="p-4 border">
-                                                11:15                                                                                            </td>
-                                            <td class="p-4 border">
-                                                Mark Bailey                                            </td>
-                                            <td class="p-4 border">Spiritum Duo - Clinical Pathways - A to B but faster</td>
-                                        </tr>
-                                            
-                                                                                <tr>
-                                            <td class="p-4 border">
-                                                11:45                                                                                            </td>
-                                            <td class="p-4 border">
-                                                                                            </td>
-                                            <td class="p-4 border">Lunch</td>
-                                        </tr>
-                                            
-                                                                                <tr>
-                                            <td class="p-4 border">
-                                                13:00                                                                                            </td>
-                                            <td class="p-4 border">
-                                                Steven Maude                                            </td>
-                                            <td class="p-4 border">Documenting the OpenSAFELY platform with Python and MkDocs</td>
-                                        </tr>
-                                            
-                                                                                <tr>
-                                            <td class="p-4 border">
-                                                13:30                                                                                            </td>
-                                            <td class="p-4 border">
-                                                Charlotte James                                            </td>
-                                            <td class="p-4 border">Forecasting Long-Term Demand in Emergency Departments</td>
-                                        </tr>
-                                            
-                                                                                <tr>
-                                            <td class="p-4 border">
-                                                14:00                                                                                            </td>
-                                            <td class="p-4 border">
-                                                Dan Schofield                                            </td>
-                                            <td class="p-4 border">Connecting Research to NHS Operations</td>
-                                        </tr>
-                                            
-                                                                                <tr>
-                                            <td class="p-4 border">
-                                                14:30                                                                                            </td>
-                                            <td class="p-4 border">
-                                                David Sgorbati                                            </td>
-                                            <td class="p-4 border">R and Python – Integrating Workflows in the Creation of Synthetic Datasets</td>
-                                        </tr>
-                                            
-                                                                                <tr>
-                                            <td class="p-4 border">
-                                                15:00                                                                                            </td>
-                                            <td class="p-4 border">
-                                                Dany Gammall                                            </td>
-                                            <td class="p-4 border">Evaluating FHIR clinical data quality with BigQuery and dbt</td>
-                                        </tr>
-                                            
-                                                                                <tr>
-                                            <td class="p-4 border">
-                                                15:15                                                                                            </td>
-                                            <td class="p-4 border">
-                                                                                            </td>
-                                            <td class="p-4 border">Break</td>
-                                        </tr>
-                                            
-                                                                                <tr>
-                                            <td class="p-4 border">
-                                                15:30                                                                                            </td>
-                                            <td class="p-4 border">
-                                                Paul Carroll                                            </td>
-                                            <td class="p-4 border">Travel Time to NHS Organisations</td>
-                                        </tr>
-                                            
-                                                                                <tr>
-                                            <td class="p-4 border">
-                                                15:45                                                                                            </td>
-                                            <td class="p-4 border">
-                                                Darshita Chaturvedi                                            </td>
-                                            <td class="p-4 border">Shinier alternative to R-Shiny: Creating Progressive Web Apps using PyScript and Atri</td>
-                                        </tr>
-                                            
-                                                                                <tr>
-                                            <td class="p-4 border">
-                                                16:00                                                                                            </td>
-                                            <td class="p-4 border">
-                                                Alistair Jones                                            </td>
-                                            <td class="p-4 border">How we generate privacy-enhancing artificial healthcare data at NHS Digital</td>
-                                        </tr>
-                                            
-                                                                                <tr>
-                                            <td class="p-4 border">
-                                                16:30                                                                                            </td>
-                                            <td class="p-4 border">
-                                                Zeki Gultekin                                            </td>
-                                            <td class="p-4 border">Sensitive Data Detection by using Convolutional Neural Networks (CNN) and Name Entity Recognition(NER)</td>
-                                        </tr>
-                                            
-                                                                                <tr>
-                                            <td class="p-4 border">
-                                                17:00                                                                                            </td>
-                                            <td class="p-4 border">
-                                                                                            </td>
-                                            <td class="p-4 border">Close</td>
-                                        </tr>
-                                            
-                                                                            </tbody></table>
+  <tbody>
+    <tr>
+      <td class="p-4 border">09:15</td>
+      <td class="p-4 border">Mary Amanuel, [Craig Shenton](https://www.linkedin.com/in/ACoAAAJjzAgB3VafSdpj5MALMZTjFBhNVIKLAPs?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3B8N1qq69KS6S5wosJPPHMXw%3D%3D)</td>
+      <td class="p-4 border">Introduction</td>
+    </tr>
+
+    <tr>
+      <td class="p-4 border">09:30</td>
+      <td class="p-4 border">Sarah Culkin</td>
+      <td class="p-4 border">Key Note Speech</td>
+    </tr>
+
+    <tr>
+      <td class="p-4 border">10:00</td>
+      <td class="p-4 border">
+        Pawel Orzechowski, Sarah Culkin, Thiago Viana, Andrew Harding
+      </td>
+      <td class="p-4 border">
+        Panel Dicussion - Benefits of upskilling analysts in python &amp; the
+        use of open-source code in the NHS and healthcare sector
+      </td>
+    </tr>
+
+    <tr>
+      <td class="p-4 border">10:45</td>
+      <td class="p-4 border">Adam Carruthers</td>
+      <td class="p-4 border">
+        Turbocharge your development with visual studio code
+      </td>
+    </tr>
+
+    <tr>
+      <td class="p-4 border">11:15</td>
+      <td class="p-4 border">Mark Bailey</td>
+      <td class="p-4 border">
+        Spiritum Duo - Clinical Pathways - A to B but faster
+      </td>
+    </tr>
+
+    <tr>
+      <td class="p-4 border">11:45</td>
+      <td class="p-4 border">Steven Maude</td>
+      <td class="p-4 border">
+        Documenting the OpenSAFELY platform with Python and MkDocs
+      </td>
+    </tr>
+
+    <tr>
+      <td class="p-4 border">12:15</td>
+      <td class="p-4 border">Charlotte James</td>
+      <td class="p-4 border">
+        Forecasting Long-Term Demand in Emergency Departments
+      </td>
+    </tr>
+
+    <tr>
+      <td class="p-4 border">12:45</td>
+      <td class="p-4 border">Paul Carroll</td>
+      <td class="p-4 border">Travel Time to NHS Organisations</td>
+    </tr>
+
+    <tr>
+      <td class="p-4 border">13:00</td>
+      <td class="p-4 border"></td>
+      <td class="p-4 border">Lunch</td>
+    </tr>
+
+    <tr>
+      <td class="p-4 border">14:00</td>
+      <td class="p-4 border">Dan Schofield</td>
+      <td class="p-4 border">Connecting Research to NHS Operations</td>
+    </tr>
+
+    <tr>
+      <td class="p-4 border">14:30</td>
+      <td class="p-4 border">David Sgorbati</td>
+      <td class="p-4 border">
+        R and Python – Integrating Workflows in the Creation of Synthetic
+        Datasets
+      </td>
+    </tr>
+
+    <tr>
+      <td class="p-4 border">15:00</td>
+      <td class="p-4 border">Dany Gammall</td>
+      <td class="p-4 border">
+        Evaluating FHIR clinical data quality with BigQuery and dbt
+      </td>
+    </tr>
+
+    <tr>
+      <td class="p-4 border">15:15</td>
+      <td class="p-4 border"></td>
+      <td class="p-4 border">Break</td>
+    </tr>
+
+    <tr>
+      <td class="p-4 border">15:30</td>
+      <td class="p-4 border">Paul Carroll</td>
+      <td class="p-4 border">Travel Time to NHS Organisations</td>
+    </tr>
+
+    <tr>
+      <td class="p-4 border">15:45</td>
+      <td class="p-4 border">Darshita Chaturvedi</td>
+      <td class="p-4 border">
+        Shinier alternative to R-Shiny: Creating Progressive Web Apps using
+        PyScript and Atri
+      </td>
+    </tr>
+
+    <tr>
+      <td class="p-4 border">16:00</td>
+      <td class="p-4 border">Alistair Jones</td>
+      <td class="p-4 border">
+        How we generate privacy-enhancing artificial healthcare data at NHS
+        Digital
+      </td>
+    </tr>
+
+    <tr>
+      <td class="p-4 border">16:30</td>
+      <td class="p-4 border">(Zeki Gultekin](https://www.linkedin.com/in/ACoAADksBGMB-Buqy5hJJRJw9C5GEnrtBf7MyAs?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3B8N1qq69KS6S5wosJPPHMXw%3D%3D)</td>
+      <td class="p-4 border">
+        Sensitive Data Detection by using Convolutional Neural Networks (CNN)
+        and Name Entity Recognition(NER)
+      </td>
+    </tr>
+
+    <tr>
+      <td class="p-4 border">17:00</td>
+      <td class="p-4 border"></td>
+      <td class="p-4 border">Close</td>
+    </tr>
+  </tbody>
+</table>
+
 
 ## Venue Information
 
