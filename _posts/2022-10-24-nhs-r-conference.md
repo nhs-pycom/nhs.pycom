@@ -75,7 +75,7 @@ If you have questions please email [nhspycomcommunity@england.nhs.uk](mailto:nhs
   <tbody>
     <tr>
       <td class="p-4 border">09:15</td>
-      <td class="p-4 border"><a href="https://www.linkedin.com/in/mary-amanuel-b9b4621b4?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADHmqicBwF_728pSYQ0FY_1LhQGjRGNmUa0&lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3B8N1qq69KS6S5wosJPPHMXw%3D%3D"> Mary Amanuel</a>, <a href="https://www.linkedin.com/in/ACoAADksBGMB-Buqy5hJJRJw9C5GEnrtBf7MyAs?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3B8N1qq69KS6S5wosJPPHMXw%3D%3D"> Craig Shenton</a></td>
+      <td class="p-4 border"><a href="https://www.linkedin.com/in/mary-amanuel-b9b4621b4?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADHmqicBwF_728pSYQ0FY_1LhQGjRGNmUa0&lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3B8N1qq69KS6S5wosJPPHMXw%3D%3D"> Mary Amanuel</a>, <a href="https://www.linkedin.com/in/ACoAAAJjzAgB3VafSdpj5MALMZTjFBhNVIKLAPs?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3B8N1qq69KS6S5wosJPPHMXw%3D%3D"> Craig Shenton</a></td>
       <td class="p-4 border">Introduction</td>
     </tr>
 
@@ -180,7 +180,7 @@ If you have questions please email [nhspycomcommunity@england.nhs.uk](mailto:nhs
 
     <tr>
       <td class="p-4 border">16:00</td>
-      <td class="p-4 border"><a href="https://www.linkedin.com/in/ACoAADksBGMB-Buqy5hJJRJw9C5GEnrtBf7MyAs?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3B8N1qq69KS6S5wosJPPHMXw%3D%3D"> Alistair Jones</a></td>
+      <td class="p-4 border"><a href="https://www.linkedin.com/in/alistair-h-jones?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABqmKpsBVMmWNZg_mdRZpUvonBFFvElQ8Oo&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3BuW3pGnyJQeOogZ2NNLJ9Xg%3D%3D"> Alistair Jones</a></td>
       <td class="p-4 border">
         How we generate privacy-enhancing artificial healthcare data at NHS
         Digital
