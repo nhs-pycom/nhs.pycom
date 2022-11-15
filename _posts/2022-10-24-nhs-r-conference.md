@@ -48,16 +48,13 @@ author-github: nhs-pycom
 
 ## TICKETS OUT NOW!!
 
-Please sign up asap (tickets going quickly), share to your teams and support open source in the NHS! 
-
-### To join in person (we are limited to 100 tickets!)
-
-- [Register here: please log in first to register.](https://nhsrcommunity.com/wp-login.php)
-- [Then sign up here: 17th November (Incl. Python Track) – join in person](https://nhsrcommunity.com/events/nhs-r-community-conference-2022-day-2-17th-november-2022-join-in-person/)
+Please sign up to watch online, share to your teams and support open source in the NHS! 
 
 ### To join online
 - [Register here: please log in first to register.](https://nhsrcommunity.com/wp-login.php)
 - [Then sign up here:  : Python Track: 17th November – join on-line](https://nhsrcommunity.com/events/nhs-r-community-conference-2022-python-track-17th-november-2022-join-online/)
+
+### To join in person (closed)
 
 If you have questions please email [nhspycomcommunity@england.nhs.uk](mailto:nhspycomcommunity@england.nhs.uk)
 
